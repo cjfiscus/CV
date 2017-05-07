@@ -12,7 +12,7 @@ fontsize: 12pt
 \begin{center}
 Graduate Student Researcher\\ 
 Department of Botany and Plant Sciences, University of California, Riverside\\
-cfisc004@ucr.edu • \href{https://linkedin.com/in/cjfiscus}{LinkedIn} • \href{https://github.com/cjfiscus}{GitHub}• \href{https://twitter.com/cjfiscu}{Twitter}
+cfisc004@ucr.edu • \href{https://linkedin.com/in/cjfiscus}{LinkedIn} • \href{https://github.com/cjfiscus}{GitHub}• \href{https://twitter.com/cjfiscu}{@cjfiscu}
 \end{center}
 
 #### EDUCATION  
