@@ -3,10 +3,6 @@ curriculum vitae for Christopher J. Fiscus
 
 ## Formats
 
-**PDF**: CV.pdf 
+**PDF**: CV.pdf
  
-**Word**: CV.docx 
- 
-**Github**: CV.md  
-
-**R Markdown**: CV.Rmd  
+**R Markdown**: CV.Rmd
