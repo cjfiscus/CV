@@ -1,8 +1,7 @@
-# CV
-curriculum vitae for Christopher J. Fiscus
+# curriculum vitae for Christopher J. Fiscus
 
-## Formats
+Written in Rmd and LaTeX. Rendered using render.sh. 
 
-**PDF**: CV.pdf
- 
-**R Markdown**: CV.Rmd
+### Formats
+[**PDF**](CV.pdf)
+
