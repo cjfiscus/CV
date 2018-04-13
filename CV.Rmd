@@ -66,8 +66,10 @@ Introductury LEGO Mindstorms NXT Robotics, 6-7/2012, 6-7/2013, 6-7/2014
 Advanced LEGO Mindstorms NXT Robotics, 6/2013, 7/2014  
 Video Game Programming for Kids, 7/2014  
 
-#### PRESENTATIONS (* denotes presenter)
-Landis JB*, Fiscus CJ, Guercio AM, Koenig DP. Elucidating the genetic control of long-term success in a near century long study of barley (Hordeum vulgare). Evolution Conference 2017
+#### CONTRIBUTED PRESENTATIONS (+ denotes presenter)
+Landis JB+, Guercio AM, Fiscus CJ, Koenig D. Phenotypic variation and genetic control of long-term success in a near century long study of barley (Hordeum vulgare). Botany Conference 2018  
+
+Landis JB+, Fiscus CJ, Guercio AM, Koenig D. Elucidating the genetic control of long-term success in a near century long study of barley (Hordeum vulgare). Evolution Conference 2017
 
 #### AWARDS AND FELLOWSHIPS
 Dean's Distinguished Fellowship (UCR), 2016-2021  
