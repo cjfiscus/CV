@@ -1,0 +1,84 @@
+---
+title: '**Christopher J. Fiscus**'
+geometry: margin=0.5in
+header-includes: \usepackage{hyperref}
+output:
+  pdf_document:
+    includes:
+      in_header: header.tex
+  github_document: default
+  word_document: default
+li {list-style-type: none;}
+fontsize: 11pt
+---
+\begin{center}
+Department of Botany and Plant Sciences, University of California, Riverside\\
+900 University Ave Riverside, CA 92521 \\
+\faEnvelopeO \quad \href{mailto:cfisc004@ucr.edu}{cfisc004@ucr.edu} • \faTwitter \quad \href{https://twitter.com/cjfiscu}{@cjfiscu} • \faUser \quad \href{https://cjfiscus.github.io/}{website} • \faGithub \quad \href{https://github.com/cjfiscus}{GitHub} • \faLinkedin \quad \href{https://linkedin.com/in/cjfiscus}{LinkedIn}
+\end{center}
+
+#### EDUCATION
+**Ph.D. Genetics, Genomics and Bioinformatics** \hfill expected 2021  
+University of California, Riverside 
+
+**B.S. Biotechnology**  \hfill June 2015  
+University of California, Davis 
+
+#### PROFESSIONAL EXPERIENCE
+Graduate Student Researcher, University of California, Riverside \hfill 2016-  
+Advisor: [Dr. Daniel Koenig](https://iigb.ucr.edu/koenig/)
+
+Quality Control Laboratory Technician, Charles Krug Winery \hfill 2015-2016  
+
+Harvest Laboratory Technician, Charles Krug Winery (via Apex Life Sciences) \hfill 2015 
+
+Undergraduate Researcher, University of California, Davis \hfill 2014  
+Advisor: [Dr. Jeffrey Ross-Ibarra](https://biology.ucdavis.edu/people/jeffrey-ross-ibarra)  
+
+Undergraduate Intern, University of California, Davis \hfill Spring 2012  
+Advisor: [Dr. Kent J. Bradford](https://www.plantsciences.ucdavis.edu/people/kent-bradford) 
+
+#### TEACHING EXPERIENCE 
+Teaching Assistant, University of California, Riverside  
+BIOL 119. Introduction to Genomics and Bioinformatics \hfill Winter 2019  
+BIOL 102. Introductory Genetics \hfill Winter 2018 
+
+Community Education Instructor, Modesto Junior College   
+Science Camp \hfill Summer 2013-2014 
+
+Community Education Assistant Instructor, Modesto Junior College  
+Introductory LEGO Mindstorms NXT Robotics \hfill Summer 2012-2014   
+Advanced LEGO Mindstorms NXT Robotics \hfill Summer 2013-2014  
+Video Game Programming for Kids \hfill Summer 2014  
+
+#### NON-PEER REVIEWED PUBLICATIONS
+**Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript*  
+
+#### CONTRIBUTED PRESENTATIONS (+ denotes presenter)
+Landis JB+, Guercio AM, Fiscus CJ, Koenig D. Phenotypic variation and genetic control of long-term success in a near century long study of barley (Hordeum vulgare). Botany Conference 2018  
+
+Landis JB+, Fiscus CJ, Guercio AM, Koenig D. Elucidating the genetic control of long-term success in a near century long study of barley (Hordeum vulgare). Evolution Conference 2017
+
+#### AWARDS AND FELLOWSHIPS
+Dean's Distinguished Fellowship (UCR) \hfill 2016-2018  
+California Highway Patrol 11-99 Foundation Scholarship \hfill 2011-2015
+
+#### PROFESSIONAL AFFILIATIONS
+Society for Molecular Biology and Evolution \hfill 2017-  
+Botanical Society of America \hfill 2017-
+
+#### OUTREACH
+National History Day Judge, Riverside Unified School District \hfill January 2018   
+Master Plant Science Team, [PlantingScience](https://www.plantingscience.org/) \hfill 2017-2018    
+Scientist Mentor, [PlantingScience](https://www.plantingscience.org/) \hfill 2017-  
+Guest Speaker, James C. Enochs High School Forensics/Biotechnology Career Pathway Program \hfill March 2017  
+Design/ Core Values Judge, FIRST LEGO League \hfill 2010-2014  
+
+#### SERVICE
+Secretary, GGB Graduate Student Association (UCR) \hfill 2017-2018
+
+#### MENTORING
+Johnny Nguyen-Tran, UCR undergraduate \hfill 2019-    
+Caitlin Santos, UCR undergraduate \hfill 2019-  
+Chris Roland Valdez, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill Summer 2018  
+Selena Burke, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill Summer 2017  

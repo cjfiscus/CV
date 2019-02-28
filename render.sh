@@ -3,5 +3,4 @@
 ## requires R pkgs pandoc, markdown installed
 ## requires LaTeX installation
 
-
-echo "rmarkdown::render('CV.Rmd', clean=TRUE)" | R --slave
+echo "rmarkdown::render('Fiscus_CJ-CV.Rmd', clean=TRUE)" | R --slave
