@@ -25,28 +25,28 @@ University of California, Riverside
 University of California, Davis 
 
 #### PROFESSIONAL EXPERIENCE
-Graduate Student Researcher, University of California, Riverside \hfill 2016-Present    
+**Graduate Student Researcher**, University of California, Riverside \hfill 2016-Present    
 Advisor: [Dr. Daniel Koenig](https://iigb.ucr.edu/koenig/)
 
-Quality Control Laboratory Technician, Charles Krug Winery \hfill 2015-2016  
+**Quality Control Laboratory Technician**, Charles Krug Winery \hfill 2015-2016  
 
-Harvest Laboratory Technician, Charles Krug Winery (via Apex Life Sciences) \hfill 2015 
+**Harvest Laboratory Technician**, Charles Krug Winery (via Apex Life Sciences) \hfill 2015 
 
-Undergraduate Researcher, University of California, Davis \hfill 2014  
+**Undergraduate Researcher**, University of California, Davis \hfill 2014  
 Advisor: [Dr. Jeffrey Ross-Ibarra](https://biology.ucdavis.edu/people/jeffrey-ross-ibarra)  
 
-Undergraduate Intern, University of California, Davis \hfill Spring 2012  
+**Undergraduate Intern**, University of California, Davis \hfill Spring 2012  
 Advisor: [Dr. Kent J. Bradford](https://www.plantsciences.ucdavis.edu/people/kent-bradford) 
 
 #### TEACHING EXPERIENCE 
-Teaching Assistant, University of California, Riverside  
+**Teaching Assistant**, University of California, Riverside  
 BIOL 119. Introduction to Genomics and Bioinformatics \hfill Winter 2019  
 BIOL 102. Introductory Genetics \hfill Winter 2018 
 
-Community Education Instructor, Modesto Junior College   
+**Community Education Instructor**, Modesto Junior College   
 Science Camp \hfill Summer 2013-2014 
 
-Community Education Assistant Instructor, Modesto Junior College  
+**Community Education Assistant Instructor**, Modesto Junior College  
 Introductory LEGO Mindstorms NXT Robotics \hfill Summer 2012-2014   
 Advanced LEGO Mindstorms NXT Robotics \hfill Summer 2013-2014  
 Video Game Programming for Kids \hfill Summer 2014  
@@ -55,9 +55,11 @@ Video Game Programming for Kids \hfill Summer 2014
 **Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript*  
 
 #### CONTRIBUTED PRESENTATIONS (+ denotes presenter)
-Landis JB+, Guercio AM, Fiscus CJ, Koenig D. Phenotypic variation and genetic control of long-term success in a near century long study of barley (Hordeum vulgare). Botany Conference 2018  
+Landis JB+, Nguyen J, Villamor I, Guercio A, **Fiscus CJ**, Quigley M, Ophelders T, Eithun M, Munch E, Chitwood D, Koenig D. [Integrating next-generation high resolution phenotype acquisition with genotypes to study adaptation in barley (Hordeum vulgare)](https://2019.botanyconference.org/engine/search/365.html?func=detail&aid=365). Botany 2019. Tucson, AZ 
 
-Landis JB+, Fiscus CJ, Guercio AM, Koenig D. Elucidating the genetic control of long-term success in a near century long study of barley (Hordeum vulgare). Evolution Conference 2017
+Landis JB+, Guercio AM, **Fiscus CJ**, Koenig D. [Phenotypic variation and genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](http://2018.botanyconference.org/engine/search/index.php?func=detail&aid=294). Botany 2018. Rochester, MN  
+
+Landis JB+, **Fiscus CJ**, Guercio AM, Koenig D. [Elucidating the genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](https://www.evolutionmeetings.org/uploads/4/8/8/0/48804503/final_evol2017_program.pdf). Evolution 2017. Portland, OR
 
 #### AWARDS AND FELLOWSHIPS
 Dean's Distinguished Fellowship (UCR) \hfill 2016-2018  
@@ -72,7 +74,7 @@ National History Day Judge, Riverside Unified School District \hfill January 201
 Master Plant Science Team, [PlantingScience](https://www.plantingscience.org/) \hfill 2017-2018    
 Scientist Mentor, [PlantingScience](https://www.plantingscience.org/) \hfill 2017-Present   
 Guest Speaker, James C. Enochs High School Forensics/Biotechnology Career Pathway Program \hfill March 2017  
-Design/ Core Values Judge, FIRST LEGO League \hfill 2010-2014  
+Design / Core Values Judge, FIRST LEGO League \hfill 2010-2014  
 
 #### SERVICE
 Secretary, GGB Graduate Student Association (UCR) \hfill 2017-2018
