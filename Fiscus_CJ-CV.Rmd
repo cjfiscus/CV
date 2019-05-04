@@ -14,7 +14,7 @@ fontsize: 11pt
 \begin{center}
 Department of Botany and Plant Sciences, University of California, Riverside\\
 900 University Ave Riverside, CA 92521 \\
-\faEnvelopeO \quad \href{mailto:cfisc004@ucr.edu}{cfisc004@ucr.edu} • \faTwitter \quad \href{https://twitter.com/cjfiscu}{@cjfiscu} • \faUser \quad \href{https://cjfiscus.github.io/}{website} • \faGithub \quad \href{https://github.com/cjfiscus}{GitHub} • \faLinkedin \quad \href{https://linkedin.com/in/cjfiscus}{LinkedIn}
+\faEnvelopeO \quad \href{mailto:cfisc004@ucr.edu}{cfisc004@ucr.edu} • \faTwitter \quad \href{https://twitter.com/fiscuscj}{@fiscuscj} • \faUser \quad \href{https://cjfiscus.github.io/}{website} • \faGithub \quad \href{https://github.com/cjfiscus}{GitHub} • \faLinkedin \quad \href{https://linkedin.com/in/cjfiscus}{LinkedIn}
 \end{center}
 
 #### EDUCATION
@@ -55,11 +55,15 @@ Video Game Programming for Kids \hfill Summer 2014
 **Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript*  
 
 #### CONTRIBUTED PRESENTATIONS (+ denotes presenter)
-Landis JB+, Nguyen J, Villamor I, Guercio A, **Fiscus CJ**, Quigley M, Ophelders T, Eithun M, Munch E, Chitwood D, Koenig D. [Integrating next-generation high resolution phenotype acquisition with genotypes to study adaptation in barley (Hordeum vulgare)](https://2019.botanyconference.org/engine/search/365.html?func=detail&aid=365). Botany 2019. Tucson, AZ 
+**Fiscus CJ+**, Koenig D. A K-mer Based Approach to Characterize the Dark Matter of the Arabidopsis thaliana Genome. Poster. SMBE 2019. Manchester, UK   
 
-Landis JB+, Guercio AM, **Fiscus CJ**, Koenig D. [Phenotypic variation and genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](http://2018.botanyconference.org/engine/search/index.php?func=detail&aid=294). Botany 2018. Rochester, MN  
+Landis JB+, Nguyen J, Villamor I, Guercio A, **Fiscus CJ**, Quigley M, Ophelders T, Eithun M, Munch E, Chitwood D, Koenig D. [Integrating next-generation high resolution phenotype acquisition with genotypes to study adaptation in barley (Hordeum vulgare)](https://2019.botanyconference.org/engine/search/365.html?func=detail&aid=365). Oral. Botany 2019. Tucson, AZ
 
-Landis JB+, **Fiscus CJ**, Guercio AM, Koenig D. [Elucidating the genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](https://www.evolutionmeetings.org/uploads/4/8/8/0/48804503/final_evol2017_program.pdf). Evolution 2017. Portland, OR
+Valdez CR, **Fiscus CJ+**, Koenig D. Characterization of Genome Content Variation in *Oryza sativa*. Poster. UCR Graduate Program in Genetics, Genomics and Bioinformatics Symposium 2019. Poster. Riverside, CA  
+
+Landis JB+, Guercio AM, **Fiscus CJ**, Koenig D. [Phenotypic variation and genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](http://2018.botanyconference.org/engine/search/index.php?func=detail&aid=294). Oral. Botany 2018. Rochester, MN  
+
+Landis JB+, **Fiscus CJ**, Guercio AM, Koenig D. [Elucidating the genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](https://www.evolutionmeetings.org/uploads/4/8/8/0/48804503/final_evol2017_program.pdf). Oral. Evolution 2017. Portland, OR
 
 #### AWARDS AND FELLOWSHIPS
 Dean's Distinguished Fellowship (UCR) \hfill 2016-2018  
