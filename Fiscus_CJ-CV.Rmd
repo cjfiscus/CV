@@ -55,6 +55,8 @@ Video Game Programming for Kids \hfill Summer 2014
 **Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript*  
 
 #### CONTRIBUTED PRESENTATIONS (+ denotes presenter)
+**Fiscus CJ+**, Koenig D. A K-mer Based Approach to Characterize the Dark Matter of the Arabidopsis thaliana Genome. Poster. Southern California Evolutionary Genetics and Genomics Meeting 2019. Irvine, CA   
+
 **Fiscus CJ+**, Koenig D. A K-mer Based Approach to Characterize the Dark Matter of the Arabidopsis thaliana Genome. Poster. SMBE 2019. Manchester, UK   
 
 Landis JB+, Nguyen J, Villamor I, Guercio A, **Fiscus CJ**, Quigley M, Ophelders T, Eithun M, Munch E, Chitwood D, Koenig D. [Integrating next-generation high resolution phenotype acquisition with genotypes to study adaptation in barley (Hordeum vulgare)](https://2019.botanyconference.org/engine/search/365.html?func=detail&aid=365). Oral. Botany 2019. Tucson, AZ
@@ -66,7 +68,7 @@ Landis JB+, Guercio AM, **Fiscus CJ**, Koenig D. [Phenotypic variation and genet
 Landis JB+, **Fiscus CJ**, Guercio AM, Koenig D. [Elucidating the genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](https://www.evolutionmeetings.org/uploads/4/8/8/0/48804503/final_evol2017_program.pdf). Oral. Evolution 2017. Portland, OR
 
 #### AWARDS AND FELLOWSHIPS
-UCR Graduate Student Association Conference Travel Grant \hfill 2019  
+UCR Graduate Student Association Conference Travel Grant- $900 \hfill 2019  
 Dean's Distinguished Fellowship (UCR) \hfill 2016-2018  
 California Highway Patrol 11-99 Foundation Scholarship \hfill 2011-2015
 
