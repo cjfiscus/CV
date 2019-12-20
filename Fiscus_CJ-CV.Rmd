@@ -40,7 +40,7 @@ Advisor: [Dr. Kent J. Bradford](https://www.plantsciences.ucdavis.edu/people/ken
 
 #### TEACHING EXPERIENCE 
 **Teaching Assistant**, University of California, Riverside  
-BIOL 119. Introduction to Genomics and Bioinformatics \hfill Winter 2019  
+BIOL 119. Introduction to Genomics and Bioinformatics \hfill Winter 2019, Winter 2020  
 BIOL 102. Introductory Genetics \hfill Winter 2018 
 
 **Community Education Instructor**, Modesto Junior College   
@@ -55,9 +55,11 @@ Video Game Programming for Kids \hfill Summer 2014
 **Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript*  
 
 #### CONTRIBUTED PRESENTATIONS (+ denotes presenter)
-**Fiscus CJ+**, Koenig D. A K-mer Based Approach to Characterize the Dark Matter of the Arabidopsis thaliana Genome. Poster. Southern California Evolutionary Genetics and Genomics Meeting 2019. Irvine, CA   
+**Fiscus CJ+**, Koenig D. A Catalog of Genome Content Variation in *Arabidopsis thaliana*. Talk. Annual Genetics, Genomics, and Bioinformatics Student Symposium 2019. Riverside, CA  
 
-**Fiscus CJ+**, Koenig D. A K-mer Based Approach to Characterize the Dark Matter of the Arabidopsis thaliana Genome. Poster. SMBE 2019. Manchester, UK   
+**Fiscus CJ+**, Koenig D. A K-mer Based Approach to Characterize the Dark Matter of the *Arabidopsis thaliana* Genome. Poster. Southern California Evolutionary Genetics and Genomics Meeting 2019. Irvine, CA  
+
+**Fiscus CJ+**, Koenig D. A K-mer Based Approach to Characterize the Dark Matter of the *Arabidopsis thaliana* Genome. Poster. SMBE 2019. Manchester, UK  
 
 Landis JB+, Nguyen J, Villamor I, Guercio A, **Fiscus CJ**, Quigley M, Ophelders T, Eithun M, Munch E, Chitwood D, Koenig D. [Integrating next-generation high resolution phenotype acquisition with genotypes to study adaptation in barley (Hordeum vulgare)](https://2019.botanyconference.org/engine/search/365.html?func=detail&aid=365). Oral. Botany 2019. Tucson, AZ
 
@@ -65,24 +67,26 @@ Valdez CR, **Fiscus CJ+**, Koenig D. Characterization of Genome Content Variatio
 
 Landis JB+, Guercio AM, **Fiscus CJ**, Koenig D. [Phenotypic variation and genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](http://2018.botanyconference.org/engine/search/index.php?func=detail&aid=294). Oral. Botany 2018. Rochester, MN  
 
-Landis JB+, **Fiscus CJ**, Guercio AM, Koenig D. [Elucidating the genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](https://www.evolutionmeetings.org/uploads/4/8/8/0/48804503/final_evol2017_program.pdf). Oral. Evolution 2017. Portland, OR
+Landis JB+, **Fiscus CJ**, Guercio AM, Koenig D. [Elucidating the genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](https://www.evolutionmeetings.org/uploads/4/8/8/0/48804503/final_evol2017_program.pdf). Oral. Evolution 2017. Portland, OR  
 
 #### AWARDS AND FELLOWSHIPS
 UCR Graduate Student Association Conference Travel Grant- $900 \hfill 2019  
-Dean's Distinguished Fellowship (UCR) \hfill 2016-2018  
-California Highway Patrol 11-99 Foundation Scholarship \hfill 2011-2015
+Best Student Appetizer, Botany and Plant Sciences Holiday Party \hfill 2017, 2018, 2019    
+Dean's Distinguished Fellowship (UCR) \hfill 2016-2018   
+California Highway Patrol 11-99 Foundation Scholarship \hfill 2011-2015  
 
 #### PROFESSIONAL AFFILIATIONS
+Genetics Society of America \hfill 2020-Present   
 American Association for the Advancement of Science \hfill 2019-Present  
 Society for Molecular Biology and Evolution \hfill 2017-Present   
-Botanical Society of America \hfill 2017-Present  
+Botanical Society of America \hfill 2017-2019   
 
 #### OUTREACH
-Mentor, James C. Enochs High School Eagles Soar Program \hfill 2019-Present  
-Volunteer, UC Riverside Plant Discovery Day \hfill April 2019  
+Scientist Mentor, [PlantingScience](https://www.plantingscience.org/) \hfill 2017-Present   
+Mentor, James C. Enochs High School Eagles Soar Program \hfill 2019  
+Volunteer, UC Riverside Plant Discovery Day \hfill April 2019   
 National History Day Judge, Riverside Unified School District \hfill January 2018   
 Master Plant Science Team, [PlantingScience](https://www.plantingscience.org/) \hfill 2017-2018    
-Scientist Mentor, [PlantingScience](https://www.plantingscience.org/) \hfill 2017-Present   
 Guest Speaker, James C. Enochs High School Forensics/Biotechnology Career Pathway Program \hfill March 2017  
 Design / Core Values Judge, FIRST LEGO League \hfill 2010-2014  
 
@@ -91,7 +95,7 @@ President, GGB Graduate Student Association (UCR) \hfill 2019-2020
 Secretary, GGB Graduate Student Association (UCR) \hfill 2017-2018
 
 #### MENTORING
+Caitlin Santos, UCR undergraduate \hfill 2019-2020 
 Johnny Nguyen-Tran, UCR undergraduate \hfill 2019      
-Caitlin Santos, UCR undergraduate \hfill 2019    
 Chris Roland Valdez, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill Summer 2018  
 Selena Burke, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill Summer 2017  
