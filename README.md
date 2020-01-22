@@ -3,5 +3,5 @@
 Written in Rmd and LaTeX. Rendered using render.sh. 
 
 ### Formats
-[**PDF**](CV.pdf)
+[**PDF**](Fiscus_CJ-CV.pdf)
 

@@ -1,5 +1,4 @@
 ---
-title: '**Christopher J. Fiscus**'
 geometry: margin=0.5in
 header-includes: \usepackage{hyperref}
 output:
@@ -12,19 +11,22 @@ li {list-style-type: none;}
 fontsize: 11pt
 ---
 \begin{center}
+{\LARGE \textbf{Christopher J. Fiscus}\par}
+\end{center}
+\begin{center}
 Department of Botany and Plant Sciences, University of California, Riverside\\
 900 University Ave Riverside, CA 92521 \\
 \faEnvelopeO \quad \href{mailto:cfisc004@ucr.edu}{cfisc004@ucr.edu} • \faTwitter \quad \href{https://twitter.com/fiscuscj}{@fiscuscj} • \faUser \quad \href{https://cjfiscus.github.io/}{website} • \faGithub \quad \href{https://github.com/cjfiscus}{GitHub} • \faLinkedin \quad \href{https://linkedin.com/in/cjfiscus}{LinkedIn}
 \end{center}
 
-#### EDUCATION
+### EDUCATION   
 **Ph.D. Genetics, Genomics and Bioinformatics** \hfill expected 2021  
 University of California, Riverside 
 
 **B.S. Biotechnology**  \hfill June 2015  
 University of California, Davis 
 
-#### PROFESSIONAL EXPERIENCE
+### PROFESSIONAL EXPERIENCE
 **Graduate Student Researcher**, University of California, Riverside \hfill 2016-Present    
 Advisor: [Dr. Daniel Koenig](https://iigb.ucr.edu/koenig/)
 
@@ -38,7 +40,7 @@ Advisor: [Dr. Jeffrey Ross-Ibarra](https://biology.ucdavis.edu/people/jeffrey-ro
 **Undergraduate Intern**, University of California, Davis \hfill Spring 2012  
 Advisor: [Dr. Kent J. Bradford](https://www.plantsciences.ucdavis.edu/people/kent-bradford) 
 
-#### TEACHING EXPERIENCE 
+### TEACHING EXPERIENCE 
 **Teaching Assistant**, University of California, Riverside  
 BIOL 119. Introduction to Genomics and Bioinformatics \hfill Winter 2019, Winter 2020  
 BIOL 102. Introductory Genetics \hfill Winter 2018 
@@ -51,15 +53,18 @@ Introductory LEGO Mindstorms NXT Robotics \hfill Summer 2012-2014
 Advanced LEGO Mindstorms NXT Robotics \hfill Summer 2013-2014  
 Video Game Programming for Kids \hfill Summer 2014  
 
-#### NON-PEER REVIEWED PUBLICATIONS
+### NON-PEER REVIEWED PUBLICATIONS
 **Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript*  
 
-#### CONTRIBUTED PRESENTATIONS (+ denotes presenter)
+### CONTRIBUTED PRESENTATIONS (+ denotes presenter)  
+
+Landis JB, **Fiscus CJ**, Guercio A, Koenig D+. [The Genetic Architecture of Adaptation in the Long Term Barley Composite Cross Experiments.](https://plan.core-apps.com/pag_2020/abstract/6f7bedec-7049-40b5-a8c3-d18eb5a858eb). Talk. PAG XXVIII. San Diego, CA  
+
 **Fiscus CJ+**, Koenig D. A Catalog of Genome Content Variation in *Arabidopsis thaliana*. Talk. Annual Genetics, Genomics, and Bioinformatics Student Symposium 2019. Riverside, CA  
 
 **Fiscus CJ+**, Koenig D. A K-mer Based Approach to Characterize the Dark Matter of the *Arabidopsis thaliana* Genome. Poster. Southern California Evolutionary Genetics and Genomics Meeting 2019. Irvine, CA  
 
-**Fiscus CJ+**, Koenig D. A K-mer Based Approach to Characterize the Dark Matter of the *Arabidopsis thaliana* Genome. Poster. SMBE 2019. Manchester, UK  
+**Fiscus CJ+**, Koenig D. [A K-mer Based Approach to Characterize the Dark Matter of the *Arabidopsis thaliana* Genome](http://smbe2019.org/media/1058/smbe-2019-abstract-book.pdf). Poster. SMBE 2019. Manchester, UK  
 
 Landis JB+, Nguyen J, Villamor I, Guercio A, **Fiscus CJ**, Quigley M, Ophelders T, Eithun M, Munch E, Chitwood D, Koenig D. [Integrating next-generation high resolution phenotype acquisition with genotypes to study adaptation in barley (Hordeum vulgare)](https://2019.botanyconference.org/engine/search/365.html?func=detail&aid=365). Oral. Botany 2019. Tucson, AZ
 
@@ -69,19 +74,19 @@ Landis JB+, Guercio AM, **Fiscus CJ**, Koenig D. [Phenotypic variation and genet
 
 Landis JB+, **Fiscus CJ**, Guercio AM, Koenig D. [Elucidating the genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](https://www.evolutionmeetings.org/uploads/4/8/8/0/48804503/final_evol2017_program.pdf). Oral. Evolution 2017. Portland, OR  
 
-#### AWARDS AND FELLOWSHIPS
+### AWARDS AND FELLOWSHIPS
 UCR Graduate Student Association Conference Travel Grant- $900 \hfill 2019  
 Best Student Appetizer, Botany and Plant Sciences Holiday Party \hfill 2017, 2018, 2019    
 Dean's Distinguished Fellowship (UCR) \hfill 2016-2018   
 California Highway Patrol 11-99 Foundation Scholarship \hfill 2011-2015  
 
-#### PROFESSIONAL AFFILIATIONS
+### PROFESSIONAL AFFILIATIONS
 Genetics Society of America \hfill 2020-Present   
 American Association for the Advancement of Science \hfill 2019-Present  
 Society for Molecular Biology and Evolution \hfill 2017-Present   
 Botanical Society of America \hfill 2017-2019   
 
-#### OUTREACH
+### OUTREACH
 Scientist Mentor, [PlantingScience](https://www.plantingscience.org/) \hfill 2017-Present   
 Mentor, James C. Enochs High School Eagles Soar Program \hfill 2019  
 Volunteer, UC Riverside Plant Discovery Day \hfill April 2019   
@@ -90,12 +95,12 @@ Master Plant Science Team, [PlantingScience](https://www.plantingscience.org/) \
 Guest Speaker, James C. Enochs High School Forensics/Biotechnology Career Pathway Program \hfill March 2017  
 Design / Core Values Judge, FIRST LEGO League \hfill 2010-2014  
 
-#### SERVICE
+### SERVICE
 President, GGB Graduate Student Association (UCR) \hfill 2019-2020  
 Secretary, GGB Graduate Student Association (UCR) \hfill 2017-2018
 
-#### MENTORING
-Caitlin Santos, UCR undergraduate \hfill 2019-2020 
+### MENTORING
+Caitlin Santos, UCR undergraduate \hfill 2019-2020   
 Johnny Nguyen-Tran, UCR undergraduate \hfill 2019      
 Chris Roland Valdez, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill Summer 2018  
 Selena Burke, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill Summer 2017  
