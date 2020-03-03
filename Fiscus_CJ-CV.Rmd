@@ -40,7 +40,11 @@ Advisor: [Dr. Jeffrey Ross-Ibarra](https://biology.ucdavis.edu/people/jeffrey-ro
 **Undergraduate Intern**, University of California, Davis \hfill Spring 2012  
 Advisor: [Dr. Kent J. Bradford](https://www.plantsciences.ucdavis.edu/people/kent-bradford) 
 
-### TEACHING EXPERIENCE 
+### TEACHING EXPERIENCE
+**Guest Lecturer**, University of California, Riverside  
+BIOL 119. Introduction to Genomics and Bioinformatics.  
+Lecture: Genomics, Phenotype and Disease. \hfill Winter 2020  
+
 **Teaching Assistant**, University of California, Riverside  
 BIOL 119. Introduction to Genomics and Bioinformatics \hfill Winter 2019, Winter 2020  
 BIOL 102. Introductory Genetics \hfill Winter 2018 
@@ -100,7 +104,8 @@ President, GGB Graduate Student Association (UCR) \hfill 2019-2020
 Secretary, GGB Graduate Student Association (UCR) \hfill 2017-2018
 
 ### MENTORING
-Caitlin Santos, UCR undergraduate \hfill 2019-2020   
+Livia Nguyen, UCR undergraduate \hfill 2020-Present  
+Caitlin Santos, UCR undergraduate \hfill 2019-Present    
 Johnny Nguyen-Tran, UCR undergraduate \hfill 2019      
 Chris Roland Valdez, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill Summer 2018  
 Selena Burke, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill Summer 2017  
