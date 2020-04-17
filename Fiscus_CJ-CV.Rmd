@@ -42,8 +42,8 @@ Advisor: [Dr. Kent J. Bradford](https://www.plantsciences.ucdavis.edu/people/ken
 
 ### TEACHING EXPERIENCE
 **Guest Lecturer**, University of California, Riverside  
-BIOL 119. Introduction to Genomics and Bioinformatics.  
-Lecture: Genomics, Phenotype and Disease. \hfill Winter 2020  
+BIOL 119. Introduction to Genomics and Bioinformatics. \hfill Winter 2020   
+Lecture: Genomics, Phenotype and Disease. 
 
 **Teaching Assistant**, University of California, Riverside  
 BIOL 119. Introduction to Genomics and Bioinformatics \hfill Winter 2019, Winter 2020  
@@ -61,6 +61,9 @@ Video Game Programming for Kids \hfill Summer 2014
 **Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript*  
 
 ### CONTRIBUTED PRESENTATIONS (+ denotes presenter)  
+**Fiscus CJ+**, Koenig D. A Catalog of Genome Content Variation in *Arabidopsis thaliana*. Poster. TAGC 2020 Online. Online.  
+
+Landis JB, Brown KE, Marzolino J, Guercio A, **Fiscus CJ**, Koenig D+. The Genomic Basis of Adaptation in a Ninety Year Long Barley Experiment. Oral. TAGC 2020 Online. Online.  
 
 Landis JB, **Fiscus CJ**, Guercio A, Koenig D+. [The Genetic Architecture of Adaptation in the Long Term Barley Composite Cross Experiments.](https://plan.core-apps.com/pag_2020/abstract/6f7bedec-7049-40b5-a8c3-d18eb5a858eb). Talk. PAG XXVIII. San Diego, CA  
 
