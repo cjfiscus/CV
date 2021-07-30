@@ -20,7 +20,7 @@ Department of Botany and Plant Sciences, University of California, Riverside\\
 \end{center}
 
 ### EDUCATION   
-**Ph.D. Genetics, Genomics and Bioinformatics** \hfill expected 2021  
+**Ph.D. Genetics, Genomics and Bioinformatics** \hfill expected 2022  
 University of California, Riverside 
 
 **B.S. Biotechnology**  \hfill June 2015  
@@ -94,8 +94,7 @@ Society for Molecular Biology and Evolution \hfill 2017-Present
 <!-- Botanical Society of America \hfill 2017-2019  --> 
 
 ### OUTREACH
-Scientist Mentor, [PlantingScience](https://www.plantingscience.org/) \hfill 2017-Present   
-<!-- Mentor, James C. Enochs High School Eagles Soar Program \hfill 2019 --> 
+Scientist Mentor, [PlantingScience](https://www.plantingscience.org/) \hfill 2017-2020    
 Volunteer, UC Riverside Plant Discovery Day \hfill April 2019   
 National History Day Judge, Riverside Unified School District \hfill January 2018   
 Master Plant Science Team, [PlantingScience](https://www.plantingscience.org/) \hfill 2017-2018    
@@ -108,7 +107,7 @@ Secretary, GGB Graduate Student Association (UCR) \hfill 2017-2018
 
 ### MENTORING
 Livia Nguyen, UCR undergraduate \hfill 2020   
-Caitlin Santos, UCR undergraduate \hfill 2019-2020    
+Caitlin Santos, UCR undergraduate \hfill 2019-2021    
 <!-- Kirsten Trimble, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill Summer 2019 -->
 Johnny Nguyen-Tran, UCR undergraduate \hfill 2019      
 Chris Roland Valdez, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill Summer 2018  
