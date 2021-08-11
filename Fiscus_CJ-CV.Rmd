@@ -57,8 +57,8 @@ Introductory LEGO Mindstorms NXT Robotics \hfill Summer 2012-2014
 Advanced LEGO Mindstorms NXT Robotics \hfill Summer 2013-2014  
 Video Game Programming for Kids \hfill Summer 2014  
 
-### NON-PEER REVIEWED PUBLICATIONS
-**Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript*  
+<!-- ### NON-PEER REVIEWED PUBLICATIONS -->
+<!-- **Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript* --> 
 
 ### CONTRIBUTED PRESENTATIONS (+ denotes presenter)  
 **Fiscus CJ+**, Koenig D. [A Catalog of Genome Content Variation in *Arabidopsis thaliana*.](https://genetics-gsa.org/tagc-2020/wp-content/uploads/sites/4/2020/04/200421-TAGC20-Abstract-Book-v1a.pdf) Poster. TAGC 2020 Online. Online. doi: [10.6084/m9.figshare.12148632.v1](https://doi.org/10.6084/m9.figshare.12148632.v1)
