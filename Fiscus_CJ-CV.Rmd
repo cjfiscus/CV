@@ -19,14 +19,14 @@ Department of Botany and Plant Sciences, University of California, Riverside\\
 \faEnvelopeO \quad \href{mailto:cfisc004@ucr.edu}{cfisc004@ucr.edu} • \faTwitter \quad \href{https://twitter.com/fiscuscj}{@fiscuscj} • \faUser \quad \href{https://cjfiscus.github.io/}{website} • \faGithub \quad \href{https://github.com/cjfiscus}{GitHub} • \faLinkedin \quad \href{https://linkedin.com/in/cjfiscus}{LinkedIn}
 \end{center}
 
-### EDUCATION   
+## Education   
 **Ph.D. Genetics, Genomics and Bioinformatics** \hfill expected 2022  
 University of California, Riverside 
 
 **B.S. Biotechnology**  \hfill June 2015  
 University of California, Davis 
 
-### PROFESSIONAL EXPERIENCE
+## Professional Experience
 **Graduate Student Researcher**, University of California, Riverside \hfill 2016-Present    
 Advisor: [Dr. Daniel Koenig](https://iigb.ucr.edu/koenig/)
 
@@ -40,7 +40,7 @@ Advisor: [Dr. Jeffrey Ross-Ibarra](https://biology.ucdavis.edu/people/jeffrey-ro
 **Undergraduate Intern**, University of California, Davis \hfill Spring 2012  
 Advisor: [Dr. Kent J. Bradford](https://www.plantsciences.ucdavis.edu/people/kent-bradford) 
 
-### TEACHING EXPERIENCE
+## Teaching Experience
 **Guest Lecturer**, University of California, Riverside  
 BIOL 119. Introduction to Genomics and Bioinformatics. \hfill Winter 2020   
 Lecture: Genomics, Phenotype and Disease. 
@@ -57,11 +57,15 @@ Introductory LEGO Mindstorms NXT Robotics \hfill Summer 2012-2014
 Advanced LEGO Mindstorms NXT Robotics \hfill Summer 2013-2014  
 Video Game Programming for Kids \hfill Summer 2014  
 
+## Publications
+### Preprints
+Martinez, S. E., Conn, C. E., Guercio, A. M., Sepulveda, C., **Fiscus, C. J.**, Koenig, D., Shabek, N., & Nelson, D. C. (2021). A KARRIKIN INSENSITIVE2 paralog in lettuce mediates highly sensitive germination responses to karrikinolide. In bioRxiv (p. 2021.10.13.464162). https://doi.org/10.1101/2021.10.13.464162
+
 <!-- ### NON-PEER REVIEWED PUBLICATIONS -->
 <!-- **Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript* --> 
 
-### CONTRIBUTED PRESENTATIONS (+ denotes presenter)  
-**Fiscus CJ+**, Koenig D. [A Catalog of Genome Content Variation in *Arabidopsis thaliana*.](https://genetics-gsa.org/tagc-2020/wp-content/uploads/sites/4/2020/04/200421-TAGC20-Abstract-Book-v1a.pdf) Poster. TAGC 2020 Online. Online. doi: [10.6084/m9.figshare.12148632.v1](https://doi.org/10.6084/m9.figshare.12148632.v1)
+## Contributed Presentations (+ denotes presenter)  
+**Fiscus CJ+**, Koenig D. A Catalog of Genome Content Variation in *Arabidopsis thaliana*. Poster. TAGC 2020 Online. Online. doi: [10.6084/m9.figshare.12148632.v1](https://doi.org/10.6084/m9.figshare.12148632.v1)
 
 Landis JB, Brown KE, Marzolino J, Guercio A, **Fiscus CJ**, Koenig D+. [The Genomic Basis of Adaptation in a Ninety Year Long Barley Experiment.](https://genetics-gsa.org/tagc-2020/wp-content/uploads/sites/4/2020/04/200421-TAGC20-Abstract-Book-v1a.pdf) Oral. TAGC 2020 Online. Online.  
 
@@ -81,19 +85,19 @@ Landis JB+, Guercio AM, **Fiscus CJ**, Koenig D. [Phenotypic variation and genet
 
 Landis JB+, **Fiscus CJ**, Guercio AM, Koenig D. [Elucidating the genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](https://www.evolutionmeetings.org/uploads/4/8/8/0/48804503/final_evol2017_program.pdf). Oral. Evolution 2017. Portland, OR  
 
-### AWARDS AND FELLOWSHIPS
+## Awards and Fellowships
 Earle C. Anthony Graduate Student Travel Award (UCR)-$1000 \hfill 2020  
 UCR Graduate Student Association Conference Travel Grant- $900 \hfill 2019  
 Best Student Appetizer, Botany and Plant Sciences Holiday Party \hfill 2017, 2018, 2019    
 Dean's Distinguished Fellowship (UCR) \hfill 2016-2018   
 <!-- California Highway Patrol 11-99 Foundation Scholarship \hfill 2011-2015 --> 
 
-### PROFESSIONAL AFFILIATIONS
+## Professional Affiliations
 Genetics Society of America \hfill 2020-Present   
 Society for Molecular Biology and Evolution \hfill 2017-Present   
 <!-- Botanical Society of America \hfill 2017-2019  --> 
 
-### OUTREACH
+## Outreach
 Scientist Mentor, [PlantingScience](https://www.plantingscience.org/) \hfill 2017-2020    
 Volunteer, UC Riverside Plant Discovery Day \hfill April 2019   
 National History Day Judge, Riverside Unified School District \hfill January 2018   
@@ -101,11 +105,11 @@ Master Plant Science Team, [PlantingScience](https://www.plantingscience.org/) \
 Guest Speaker, James C. Enochs High School Forensics/Biotechnology Career Pathway Program \hfill March 2017  
 <!-- Design / Core Values Judge, FIRST LEGO League \hfill 2010-2014 --> 
 
-### SERVICE
+## Service
 President, GGB Graduate Student Association (UCR) \hfill 2019-2020  
 Secretary, GGB Graduate Student Association (UCR) \hfill 2017-2018
 
-### MENTORING
+## Mentoring
 Livia Nguyen, UCR undergraduate \hfill 2020   
 Caitlin Santos, UCR undergraduate \hfill 2019-2021    
 <!-- Kirsten Trimble, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill Summer 2019 -->
