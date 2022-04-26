@@ -65,21 +65,23 @@ Martinez, S. E., Conn, C. E., Guercio, A. M., Sepulveda, C., **Fiscus, C. J.**, 
 <!-- **Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript* --> 
 
 ## Contributed Presentations (+ denotes presenter)  
-**Fiscus CJ+**, Koenig D. A Catalog of Genome Content Variation in *Arabidopsis thaliana*. Poster. TAGC 2020 Online. Online. doi: [10.6084/m9.figshare.12148632.v1](https://doi.org/10.6084/m9.figshare.12148632.v1)
+**Fiscus CJ+**, Koenig D. The genetic control of rapid genome content divergence in *Arabidopsis thaliana*. Poster. PEQG2022. Pacific Grove, CA  
 
-Landis JB, Brown KE, Marzolino J, Guercio A, **Fiscus CJ**, Koenig D+. [The Genomic Basis of Adaptation in a Ninety Year Long Barley Experiment.](https://genetics-gsa.org/tagc-2020/wp-content/uploads/sites/4/2020/04/200421-TAGC20-Abstract-Book-v1a.pdf) Oral. TAGC 2020 Online. Online.  
+**Fiscus CJ+**, Koenig D. A catalog of genome content variation in *Arabidopsis thaliana*. Poster. TAGC 2020 Online. Online. doi: [10.6084/m9.figshare.12148632.v1](https://doi.org/10.6084/m9.figshare.12148632.v1)
 
-Landis JB, **Fiscus CJ**, Guercio A, Koenig D+. [The Genetic Architecture of Adaptation in the Long Term Barley Composite Cross Experiments.](https://plan.core-apps.com/pag_2020/abstract/6f7bedec-7049-40b5-a8c3-d18eb5a858eb). Talk. PAG XXVIII. San Diego, CA  
+Landis JB, Brown KE, Marzolino J, Guercio A, **Fiscus CJ**, Koenig D+. [The genomic basis of adaptation in a ninety year long barley experiment.](https://genetics-gsa.org/tagc-2020/wp-content/uploads/sites/4/2020/04/200421-TAGC20-Abstract-Book-v1a.pdf) Oral. TAGC 2020 Online. Online.  
 
-**Fiscus CJ+**, Koenig D. A Catalog of Genome Content Variation in *Arabidopsis thaliana*. Talk. Annual Genetics, Genomics, and Bioinformatics Student Symposium 2019. Riverside, CA  
+Landis JB, **Fiscus CJ**, Guercio A, Koenig D+. [The genetic architecture of adaptation in the long term barley composite cross experiments.](https://plan.core-apps.com/pag_2020/abstract/6f7bedec-7049-40b5-a8c3-d18eb5a858eb). Talk. PAG XXVIII. San Diego, CA  
 
-**Fiscus CJ+**, Koenig D. A K-mer Based Approach to Characterize the Dark Matter of the *Arabidopsis thaliana* Genome. Poster. Southern California Evolutionary Genetics and Genomics Meeting 2019. Irvine, CA  
+**Fiscus CJ+**, Koenig D. A catalog of genome content variation in *Arabidopsis thaliana*. Talk. Annual Genetics, Genomics, and Bioinformatics Student Symposium 2019. Riverside, CA  
 
-**Fiscus CJ+**, Koenig D. [A K-mer Based Approach to Characterize the Dark Matter of the *Arabidopsis thaliana* Genome](http://smbe2019.org/media/1058/smbe-2019-abstract-book.pdf). Poster. SMBE 2019. Manchester, UK  
+**Fiscus CJ+**, Koenig D. A K-mer based approach to characterize the dark matter of the *Arabidopsis thaliana* genome. Poster. Southern California Evolutionary Genetics and Genomics Meeting 2019. Irvine, CA  
+
+**Fiscus CJ+**, Koenig D. [A K-mer based approach to characterize the dark matter of the *Arabidopsis thaliana* genome](http://smbe2019.org/media/1058/smbe-2019-abstract-book.pdf). Poster. SMBE 2019. Manchester, UK  
 
 Landis JB+, Nguyen J, Villamor I, Guercio A, **Fiscus CJ**, Quigley M, Ophelders T, Eithun M, Munch E, Chitwood D, Koenig D. [Integrating next-generation high resolution phenotype acquisition with genotypes to study adaptation in barley (Hordeum vulgare)](https://2019.botanyconference.org/engine/search/365.html?func=detail&aid=365). Oral. Botany 2019. Tucson, AZ
 
-Valdez CR, **Fiscus CJ+**, Koenig D. Characterization of Genome Content Variation in *Oryza sativa*. Poster. UCR Graduate Program in Genetics, Genomics and Bioinformatics Symposium 2019. Poster. Riverside, CA  
+Valdez CR, **Fiscus CJ+**, Koenig D. Characterization of genome content variation in *Oryza sativa*. Poster. UCR Graduate Program in Genetics, Genomics and Bioinformatics Symposium 2019. Poster. Riverside, CA  
 
 Landis JB+, Guercio AM, **Fiscus CJ**, Koenig D. [Phenotypic variation and genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](http://2018.botanyconference.org/engine/search/index.php?func=detail&aid=294). Oral. Botany 2018. Rochester, MN  
 
