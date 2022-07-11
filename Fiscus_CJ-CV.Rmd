@@ -58,8 +58,8 @@ Advanced LEGO Mindstorms NXT Robotics \hfill Summer 2013-2014
 Video Game Programming for Kids \hfill Summer 2014  
 
 ## Publications
-### Preprints
-Martinez, S. E., Conn, C. E., Guercio, A. M., Sepulveda, C., **Fiscus, C. J.**, Koenig, D., Shabek, N., & Nelson, D. C. (2021). A KARRIKIN INSENSITIVE2 paralog in lettuce mediates highly sensitive germination responses to karrikinolide. In bioRxiv (p. 2021.10.13.464162). https://doi.org/10.1101/2021.10.13.464162
+<!-- use PLoS Genetics citation style but add all authors -->
+Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N, Nelson DC. A KARRIKIN INSENSITIVE2 paralog in lettuce mediates highly sensitive germination responses to karrikinolide. Plant Physiol. 2022. doi:10.1093/plphys/kiac328
 
 <!-- ### NON-PEER REVIEWED PUBLICATIONS -->
 <!-- **Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript* --> 
@@ -88,6 +88,7 @@ Landis JB+, Guercio AM, **Fiscus CJ**, Koenig D. [Phenotypic variation and genet
 Landis JB+, **Fiscus CJ**, Guercio AM, Koenig D. [Elucidating the genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](https://www.evolutionmeetings.org/uploads/4/8/8/0/48804503/final_evol2017_program.pdf). Oral. Evolution 2017. Portland, OR  
 
 ## Awards and Fellowships
+UCR Graduate Student Association Conference Travel Grant- $400 \hfill 2022  
 Earle C. Anthony Graduate Student Travel Award (UCR)-$1000 \hfill 2020  
 UCR Graduate Student Association Conference Travel Grant- $900 \hfill 2019  
 Best Student Appetizer, Botany and Plant Sciences Holiday Party \hfill 2017, 2018, 2019    
