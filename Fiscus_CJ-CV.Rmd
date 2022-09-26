@@ -14,20 +14,26 @@ fontsize: 11pt
 {\LARGE \textbf{Christopher J. Fiscus}\par}
 \end{center}
 \begin{center}
-Department of Botany and Plant Sciences, University of California, Riverside\\
-900 University Ave Riverside, CA 92521 \\
+Postdoctoral Scholar\\
+Department of Ecology and Evolutionary Biology\\
+University of California, Irvine\\
 \faEnvelopeO \quad \href{mailto:cfisc004@ucr.edu}{cfisc004@ucr.edu} • \faTwitter \quad \href{https://twitter.com/fiscuscj}{@fiscuscj} • \faUser \quad \href{https://cjfiscus.github.io/}{website} • \faGithub \quad \href{https://github.com/cjfiscus}{GitHub} • \faLinkedin \quad \href{https://linkedin.com/in/cjfiscus}{LinkedIn}
 \end{center}
 
 ## Education   
-**Ph.D. Genetics, Genomics and Bioinformatics** \hfill expected Summer 2022  
+**Ph.D. Genetics, Genomics and Bioinformatics** \hfill 2022  
 University of California, Riverside 
 
-**B.S. Biotechnology**  \hfill June 2015  
+**B.S. Biotechnology**  \hfill 2015  
 University of California, Davis 
 
 ## Professional Experience
-**Graduate Student Researcher**, University of California, Riverside \hfill 2016-Present    
+**Postdoctoral Scholar** \hfill 2022-Present  
+Dept of Ecology and Evolutionary Biology, University of California, Irvine  
+Advisor: [Dr. Brandon Gaut](https://www.faculty.uci.edu/profile.cfm?faculty_id=4561)
+
+**Graduate Student Researcher** \hfill 2016-2022  
+Dept of Botany and Plant Sciences,  University of California, Riverside   
 Advisor: [Dr. Daniel Koenig](https://iigb.ucr.edu/koenig/)
 
 **Quality Control Laboratory Technician**, Charles Krug Winery \hfill 2015-2016  
@@ -103,7 +109,7 @@ Society for Molecular Biology and Evolution \hfill 2017-Present
 ## Outreach
 Scientist Mentor, [PlantingScience](https://www.plantingscience.org/) \hfill 2017-2020    
 Volunteer, UC Riverside Plant Discovery Day \hfill April 2019   
-National History Day Judge, Riverside Unified School District \hfill January 2018   
+<!-- National History Day Judge, Riverside Unified School District \hfill January 2018 --> 
 Master Plant Science Team, [PlantingScience](https://www.plantingscience.org/) \hfill 2017-2018    
 Guest Speaker, James C. Enochs High School Forensics/Biotechnology Career Pathway Program \hfill March 2017  
 <!-- Design / Core Values Judge, FIRST LEGO League \hfill 2010-2014 --> 
