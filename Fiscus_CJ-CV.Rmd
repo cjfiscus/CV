@@ -17,7 +17,7 @@ fontsize: 11pt
 Postdoctoral Scholar\\
 Department of Ecology and Evolutionary Biology\\
 University of California, Irvine\\
-\faEnvelopeO \quad \href{mailto:cfisc004@ucr.edu}{cfisc004@ucr.edu} • \faTwitter \quad \href{https://twitter.com/fiscuscj}{@fiscuscj} • \faUser \quad \href{https://cjfiscus.github.io/}{website} • \faGithub \quad \href{https://github.com/cjfiscus}{GitHub} • \faLinkedin \quad \href{https://linkedin.com/in/cjfiscus}{LinkedIn}
+\faEnvelopeO \quad \href{mailto:cfiscus@uci.edu}{cfiscus@uci.edu} • \faTwitter \quad \href{https://twitter.com/fiscuscj}{@fiscuscj} • \faUser \quad \href{https://cjfiscus.github.io/}{website} • \faGithub \quad \href{https://github.com/cjfiscus}{GitHub} • \faLinkedin \quad \href{https://linkedin.com/in/cjfiscus}{LinkedIn}
 \end{center}
 
 ## Education   
