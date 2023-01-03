@@ -21,19 +21,19 @@ University of California, Irvine\\
 \end{center}
 
 ## Education   
-**Ph.D. Genetics, Genomics and Bioinformatics** \hfill 2022  
-University of California, Riverside 
+**Ph.D. Genetics, Genomics and Bioinformatics**, University of California, Riverside \hfill 2022  
+Dissertation: *Causes and consequences of plant genome evolution*  
+Advisor: [Dr. Daniel Koenig](https://iigb.ucr.edu/koenig/)
 
-**B.S. Biotechnology**  \hfill 2015  
-University of California, Davis 
+**B.S. Biotechnology**, University of California, Davis \hfill 2015  
 
 ## Professional Experience
-**Postdoctoral Scholar** \hfill 2022-Present  
-Dept of Ecology and Evolutionary Biology, University of California, Irvine  
+**Postdoctoral Scholar**, University of California, Irvine \hfill 2022-Present  
+Dept of Ecology and Evolutionary Biology  
 Advisor: [Dr. Brandon Gaut](https://www.faculty.uci.edu/profile.cfm?faculty_id=4561)
 
-**Graduate Student Researcher** \hfill 2016-2022  
-Dept of Botany and Plant Sciences,  University of California, Riverside   
+**Graduate Student Researcher**, University of California, Riverside \hfill 2016-2022  
+Dept of Botany and Plant Sciences   
 Advisor: [Dr. Daniel Koenig](https://iigb.ucr.edu/koenig/)
 
 **Quality Control Laboratory Technician**, Charles Krug Winery \hfill 2015-2016  
@@ -70,28 +70,34 @@ Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N
 <!-- ### NON-PEER REVIEWED PUBLICATIONS -->
 <!-- **Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript* --> 
 
-## Contributed Presentations (+ denotes presenter)  
-**Fiscus CJ+**, Koenig D. The genetic control of rapid genome content divergence in *Arabidopsis thaliana*. Poster. PEQG2022. Pacific Grove, CA  
+## Presentations
+**Fiscus CJ**. Causes and consequences of plant genome evolution. Seminar. January 2023.  Friends of Evolution Seminar Series, Dept. of Ecology and Evolutionary Biology UC Irvine  
 
-**Fiscus CJ+**, Koenig D. A catalog of genome content variation in *Arabidopsis thaliana*. Poster. TAGC 2020 Online. Online. doi: [10.6084/m9.figshare.12148632.v1](https://doi.org/10.6084/m9.figshare.12148632.v1)
+<!-- Koenig D+, **Fiscus CJ**, Abberton M, Close TJ, Muñoz-Amatriaín M, Oyatomi O. A genetic framework to understand climate adaptation in cowpea. Oral. PAG30. San Diego, CA --> 
 
-Landis JB, Brown KE, Marzolino J, Guercio A, **Fiscus CJ**, Koenig D+. [The genomic basis of adaptation in a ninety year long barley experiment.](https://genetics-gsa.org/tagc-2020/wp-content/uploads/sites/4/2020/04/200421-TAGC20-Abstract-Book-v1a.pdf) Oral. TAGC 2020 Online. Online.  
+<!-- Koenig D+, **Fiscus CJ**. Understanding variation in the rate of genomic change in *Arabidopsis thaliana*. Oral. PAG30 San Diego, CA --> 
 
-Landis JB, **Fiscus CJ**, Guercio A, Koenig D+. [The genetic architecture of adaptation in the long term barley composite cross experiments.](https://plan.core-apps.com/pag_2020/abstract/6f7bedec-7049-40b5-a8c3-d18eb5a858eb). Talk. PAG XXVIII. San Diego, CA  
+**Fiscus CJ**, Koenig D. The genetic control of rapid genome content divergence in *Arabidopsis thaliana*. Poster. PEQG2022. Pacific Grove, CA  
 
-**Fiscus CJ+**, Koenig D. A catalog of genome content variation in *Arabidopsis thaliana*. Talk. Annual Genetics, Genomics, and Bioinformatics Student Symposium 2019. Riverside, CA  
+**Fiscus CJ**, Koenig D. A catalog of genome content variation in *Arabidopsis thaliana*. Poster. TAGC 2020 Online. Online. doi: [10.6084/m9.figshare.12148632.v1](https://doi.org/10.6084/m9.figshare.12148632.v1)
 
-**Fiscus CJ+**, Koenig D. A K-mer based approach to characterize the dark matter of the *Arabidopsis thaliana* genome. Poster. Southern California Evolutionary Genetics and Genomics Meeting 2019. Irvine, CA  
+<!-- Landis JB, Brown KE, Marzolino J, Guercio A, **Fiscus CJ**, Koenig D+. [The genomic basis of adaptation in a ninety year long barley experiment.](https://genetics-gsa.org/tagc-2020/wp-content/uploads/sites/4/2020/04/200421-TAGC20-Abstract-Book-v1a.pdf) Oral. TAGC 2020 Online. Online. --> 
 
-**Fiscus CJ+**, Koenig D. [A K-mer based approach to characterize the dark matter of the *Arabidopsis thaliana* genome](http://smbe2019.org/media/1058/smbe-2019-abstract-book.pdf). Poster. SMBE 2019. Manchester, UK  
+<!-- Landis JB, **Fiscus CJ**, Guercio A, Koenig D+. [The genetic architecture of adaptation in the long term barley composite cross experiments.](https://plan.core-apps.com/pag_2020/abstract/6f7bedec-7049-40b5-a8c3-d18eb5a858eb). Talk. PAG XXVIII. San Diego, CA --> 
 
-Landis JB+, Nguyen J, Villamor I, Guercio A, **Fiscus CJ**, Quigley M, Ophelders T, Eithun M, Munch E, Chitwood D, Koenig D. [Integrating next-generation high resolution phenotype acquisition with genotypes to study adaptation in barley (Hordeum vulgare)](https://2019.botanyconference.org/engine/search/365.html?func=detail&aid=365). Oral. Botany 2019. Tucson, AZ
+**Fiscus CJ**, Koenig D. A catalog of genome content variation in *Arabidopsis thaliana*. Talk. Annual Genetics, Genomics, and Bioinformatics Student Symposium 2019. Riverside, CA  
 
-Valdez CR, **Fiscus CJ+**, Koenig D. Characterization of genome content variation in *Oryza sativa*. Poster. UCR Graduate Program in Genetics, Genomics and Bioinformatics Symposium 2019. Poster. Riverside, CA  
+**Fiscus CJ**, Koenig D. A K-mer based approach to characterize the dark matter of the *Arabidopsis thaliana* genome. Poster. Southern California Evolutionary Genetics and Genomics Meeting 2019. Irvine, CA  
 
-Landis JB+, Guercio AM, **Fiscus CJ**, Koenig D. [Phenotypic variation and genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](http://2018.botanyconference.org/engine/search/index.php?func=detail&aid=294). Oral. Botany 2018. Rochester, MN  
+**Fiscus CJ**, Koenig D. [A K-mer based approach to characterize the dark matter of the *Arabidopsis thaliana* genome](http://smbe2019.org/media/1058/smbe-2019-abstract-book.pdf). Poster. SMBE 2019. Manchester, UK  
 
-Landis JB+, **Fiscus CJ**, Guercio AM, Koenig D. [Elucidating the genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](https://www.evolutionmeetings.org/uploads/4/8/8/0/48804503/final_evol2017_program.pdf). Oral. Evolution 2017. Portland, OR  
+<!-- Landis JB+, Nguyen J, Villamor I, Guercio A, **Fiscus CJ**, Quigley M, Ophelders T, Eithun M, Munch E, Chitwood D, Koenig D. [Integrating next-generation high resolution phenotype acquisition with genotypes to study adaptation in barley (Hordeum vulgare)](https://2019.botanyconference.org/engine/search/365.html?func=detail&aid=365). Oral. Botany 2019. Tucson, AZ -->
+
+Valdez CR, **Fiscus CJ**, Koenig D. Characterization of genome content variation in *Oryza sativa*. Poster. UCR Graduate Program in Genetics, Genomics and Bioinformatics Symposium 2019. Poster. Riverside, CA  
+
+<!-- Landis JB+, Guercio AM, **Fiscus CJ**, Koenig D. [Phenotypic variation and genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](http://2018.botanyconference.org/engine/search/index.php?func=detail&aid=294). Oral. Botany 2018. Rochester, MN --> 
+
+<!-- Landis JB+, **Fiscus CJ**, Guercio AM, Koenig D. [Elucidating the genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](https://www.evolutionmeetings.org/uploads/4/8/8/0/48804503/final_evol2017_program.pdf). Oral. Evolution 2017. Portland, OR --> 
 
 ## Awards and Fellowships
 UCR Graduate Student Association Conference Travel Grant- $400 \hfill 2022  
@@ -115,6 +121,7 @@ Guest Speaker, James C. Enochs High School Forensics/Biotechnology Career Pathwa
 <!-- Design / Core Values Judge, FIRST LEGO League \hfill 2010-2014 --> 
 
 ## Service
+Organizer, Southern California Evolutionary Genetics and Genomics Meeting (SCalE) \hfill 2023  
 President, GGB Graduate Student Association (UCR) \hfill 2019-2020  
 Secretary, GGB Graduate Student Association (UCR) \hfill 2017-2018
 
