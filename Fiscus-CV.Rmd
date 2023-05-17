@@ -28,9 +28,9 @@ University of California, Irvine
 \begin{tabular}{rp{0.22\linewidth}}
 \faEnvelopeO & \href{mailto:cfiscus@uci.edu}{cfiscus@uci.edu} \\
 \faTwitter & \href{https://twitter.com/fiscuscj}{@fiscuscj} \\
-\faUser & \href{https://cjfiscus.github.io/}{website} \\
-\faGithub & \href{https://github.com/cjfiscus}{GitHub} \\
-\faLinkedin & \href{https://linkedin.com/in/cjfiscus}{LinkedIn}
+\faUser & \href{https://cjfiscus.github.io/}{cjfiscus.github.io} \\
+\faGithub & \href{https://github.com/cjfiscus}{cjfiscus} \\
+\faLinkedin & \href{https://linkedin.com/in/cjfiscus}{cjfiscus}
 \end{tabular}
 \end{flushright}
 

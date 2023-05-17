@@ -23,7 +23,7 @@ knit: pagedown::chrome_print
 
 Aside
 ================================================================================
-Contact Info {#contact}
+Contact {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-phone"></i> +1 209-613-9384
@@ -46,7 +46,7 @@ Communication
 R, bash, python
 
 - **NGS analysis & algorithms**   
-bwa, GATK, samtools, bedtools, fastqc
+bwa, GATK, samtools, bedtools, fastqc, plink
 
 - **High-performance computing**   
 slurm, CentOS, Unix
