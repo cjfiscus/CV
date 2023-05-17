@@ -1,0 +1,133 @@
+---
+title: "Christopher Fiscus' resume"
+author: Christopher J. Fiscus
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css: custom_resume.css
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+```{css, echo=FALSE}
+.aside {
+  padding-top: 0;
+}
+
+.aside > p:first-of-type {
+  margin-top: 0;
+}
+```
+
+Aside
+================================================================================
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-phone"></i> +1 209-613-9384
+- <i class="fa fa-envelope"></i> fiscuscj@gmail.com
+- <i class="fa fa-linkedin"></i> [/in/cjfiscus](https://www.linkedin.com/in/cjfiscus/)
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- **General**   
+Data analysis   
+Data visualization  
+Statistical programming  
+Project management  
+Problem-solving  
+Communication  
+
+- **Programming languages**  
+R, bash, python
+
+- **NGS analysis & algorithms**   
+bwa, GATK, samtools, bedtools, fastqc
+
+- **High-performance computing**   
+slurm, CentOS, Unix
+
+- **Misc computational tools**  
+conda (package manager)   
+git (version control)  
+snakemake (workflows)  
+
+
+
+Hobbies {#hobbies}
+--------------------------------------------------------------------------------
+
+**Music**   
+play guitar and bass
+
+**Photography**  
+landscapes, astro, plants
+
+
+
+Main
+================================================================================
+
+Christopher J. Fiscus {#title}
+--------------------------------------------------------------------------------
+
+### Bioinformatics Scientist
+
+Experienced scientist specializing in plant evolutionary genetics, genomics, and bioinformatics, with a proven track record of successfully driving research projects. 
+
+Committed to making a meaningful and lasting impact by driving positive change and contributing to advancements that benefit society.  
+  
+
+
+Relevant Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Postdoctoral Researcher
+
+University of California, Irvine
+
+Irvine, CA
+
+Present - 2022
+
+- Designing and executing 3 original research projects in population and quantitative genetics by combining domain-specific knowledge with data analysis and visualization   
+- Creating and implementing bioinformatic pipelines and workflows to analyze next-generation sequencing (NGS) data in a high-performance computing (HPC) environment   
+-  Communicating progress towards project objectives to stakeholders in a variety of mediums including oral presentations and written reports   
+
+
+### Graduate Student Researcher
+
+University of California, Riverside
+
+Riverside, CA
+
+2022 - 2017
+
+- Executed 3 original research projects in computational biology, genomics, and population genetics as part of 2 international collaborations resulting in 1 peer-reviewed publication, 2 oral presentations, and 4 poster presentations   
+- Demonstrated leadership and project management skills by managing 5 direct report mentees   
+- Designed and implemented bioinformatic pipelines to analyze next-generation sequencing (NGS) data in a unix-based high-performance computing (HPC) environment   
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### PhD Genetics, Genomics and Bioinformatics
+
+University of California, Riverside
+
+N/A
+
+2022
+
+
+### BS Biotechnology
+
+University of California, Davis
+
+N/A
+
+2015
