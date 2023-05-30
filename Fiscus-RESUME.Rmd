@@ -72,7 +72,7 @@ landscapes, astro, plants
 Main
 ================================================================================
 
-Christopher J. Fiscus {#title}
+Christopher J. Fiscus, PhD {#title}
 --------------------------------------------------------------------------------
 
 ### Bioinformatics Scientist

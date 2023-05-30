@@ -17,7 +17,7 @@ fontsize: 11pt
 ---
 \begin{multicols}{2}
 \begin{flushleft}
-{\LARGE \textbf{Christopher J. Fiscus}\par}
+{\LARGE \textbf{Christopher J. Fiscus, PhD}\par}
 Department of Ecology and Evolutionary Biology
 University of California, Irvine
 \end{flushleft}
