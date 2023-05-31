@@ -5,7 +5,12 @@ header-includes:
 - \usepackage{multicol}
 - \usepackage{helvet}
 - \usepackage[T1]{fontenc}
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \setlength{\headheight}{0pt}
+- \fancyhead[R]{curriculum vitae for Christopher J. Fiscus, PhD}
 - \renewcommand\familydefault{\sfdefault} 
+- \geometry{footskip=0.5cm}
 output:
   pdf_document:
     includes:
@@ -15,6 +20,7 @@ output:
 li {list-style-type: none;}
 fontsize: 11pt
 ---
+\thispagestyle{plain}
 \begin{multicols}{2}
 \begin{flushleft}
 {\LARGE \textbf{Christopher J. Fiscus, PhD}\par}
@@ -25,7 +31,7 @@ University of California, Irvine
 \columnbreak
 
 \begin{flushright}
-\begin{tabular}{rp{0.22\linewidth}}
+\begin{tabular}{rp{0.30\linewidth}}
 \faEnvelopeO & \href{mailto:cfiscus@uci.edu}{cfiscus@uci.edu} \\
 \faTwitter & \href{https://twitter.com/fiscuscj}{@fiscuscj} \\
 \faUser & \href{https://cjfiscus.github.io/}{cjfiscus.github.io} \\
@@ -44,15 +50,15 @@ Advisor: [Dr. Daniel Koenig](https://iigb.ucr.edu/koenig/)
 **B.S. Biotechnology**, University of California, Davis \hfill 2015  
 
 # Professional Experience
-**Postdoctoral Scholar**, University of California, Irvine \hfill 2022-Present  
+**Postdoctoral Scholar**, University of California, Irvine \hfill 2022 - Present  
 Dept of Ecology and Evolutionary Biology  
 Advisor: [Dr. Brandon Gaut](https://www.faculty.uci.edu/profile.cfm?faculty_id=4561)
 
-**Graduate Student Researcher**, University of California, Riverside \hfill 2016-2022  
+**Graduate Student Researcher**, University of California, Riverside \hfill 2016 - 2022  
 Dept of Botany and Plant Sciences   
 Advisor: [Dr. Daniel Koenig](https://iigb.ucr.edu/koenig/)
 
-**Quality Control Laboratory Technician**, Charles Krug Winery \hfill 2015-2016  
+**Quality Control Laboratory Technician**, Charles Krug Winery \hfill 2015 - 2016  
 
 **Harvest Laboratory Technician**, Charles Krug Winery (via Apex Life Sciences) \hfill 2015 
 
@@ -72,11 +78,11 @@ BIOL 119. Introduction to Genomics and Bioinformatics \hfill Winter 2019, 2020, 
 BIOL 102. Introductory Genetics \hfill Winter 2018 
 
 **Community Education Instructor**, Modesto Junior College   
-Science Camp \hfill Summer 2013-2014 
+Science Camp \hfill Summer 2013 - 2014 
 
 **Community Education Assistant Instructor**, Modesto Junior College  
-Introductory LEGO Mindstorms NXT Robotics \hfill Summer 2012-2014   
-Advanced LEGO Mindstorms NXT Robotics \hfill Summer 2013-2014  
+Introductory LEGO Mindstorms NXT Robotics \hfill Summer 2012 - 2014   
+Advanced LEGO Mindstorms NXT Robotics \hfill Summer 2013 - 2014  
 Video Game Programming for Kids \hfill Summer 2014  
 
 # Publications
@@ -120,30 +126,30 @@ UCR Graduate Student Association Conference Travel Grant- $400 \hfill 2022
 Earle C. Anthony Graduate Student Travel Award (UCR)-$1000 \hfill 2020  
 UCR Graduate Student Association Conference Travel Grant- $900 \hfill 2019  
 Best Student Appetizer, Botany and Plant Sciences Holiday Party \hfill 2017, 2018, 2019    
-Dean's Distinguished Fellowship (UCR) \hfill 2016-2018   
-<!-- California Highway Patrol 11-99 Foundation Scholarship \hfill 2011-2015 --> 
+Dean's Distinguished Fellowship (UCR) \hfill 2016 - 2018   
+<!-- California Highway Patrol 11-99 Foundation Scholarship \hfill 2011 - 2015 --> 
 
 # Outreach
-Scientist Mentor, [PlantingScience](https://www.plantingscience.org/) \hfill 2017-2020    
+Scientist Mentor, [PlantingScience](https://www.plantingscience.org/) \hfill 2017 - 2020    
 Volunteer, UC Riverside Plant Discovery Day \hfill April 2019   
 <!-- National History Day Judge, Riverside Unified School District \hfill January 2018 --> 
-Master Plant Science Team, [PlantingScience](https://www.plantingscience.org/) \hfill 2017-2018    
+Master Plant Science Team, [PlantingScience](https://www.plantingscience.org/) \hfill 2017 - 2018    
 Guest Speaker, James C. Enochs High School Forensics/Biotechnology Career Pathway Program \hfill March 2017  
-<!-- Design / Core Values Judge, FIRST LEGO League \hfill 2010-2014 --> 
+<!-- Design / Core Values Judge, FIRST LEGO League \hfill 2010 - 2014 --> 
 
 # Service
 Organizer, Southern California Evolutionary Genetics and Genomics Meeting (SCalE) \hfill 2023  
-President, GGB Graduate Student Association (UCR) \hfill 2019-2020  
-Secretary, GGB Graduate Student Association (UCR) \hfill 2017-2018
+President, GGB Graduate Student Association (UCR) \hfill 2019 - 2020  
+Secretary, GGB Graduate Student Association (UCR) \hfill 2017 - 2018
 
 # Professional Affiliations
-Genetics Society of America \hfill 2020-Present   
-Society for Molecular Biology and Evolution \hfill 2017-Present   
+Genetics Society of America \hfill 2020 - Present   
+Society for Molecular Biology and Evolution \hfill 2017 - Present   
 <!-- Botanical Society of America \hfill 2017-2019  --> 
 
 # Mentoring
 Livia Nguyen, UCR undergraduate \hfill 2020   
-Caitlin Santos, UCR undergraduate \hfill 2019-2021    
+Caitlin Santos, UCR undergraduate \hfill 2019 - 2021    
 <!-- Kirsten Trimble, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill Summer 2019 -->
 Johnny Nguyen-Tran, UCR undergraduate \hfill 2019      
 Chris Roland Valdez, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill Summer 2018  
