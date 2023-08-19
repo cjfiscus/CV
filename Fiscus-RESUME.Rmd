@@ -28,7 +28,7 @@ Contact {#contact}
 
 - <i class="fa fa-phone"></i> +1 209-613-9384
 - <i class="fa fa-envelope"></i> fiscuscj@gmail.com
-- <i class="fa fa-linkedin"></i> [/in/cjfiscus](https://www.linkedin.com/in/cjfiscus/)
+- <i class="fa fa-linkedin"></i> [/in/fiscuscj](www.linkedin.com/in/fiscuscj)
 
 
 Skills {#skills}
@@ -77,10 +77,8 @@ Christopher J. Fiscus, PhD {#title}
 
 ### Bioinformatics Scientist
 
-Experienced scientist specializing in plant evolutionary genetics, genomics, and bioinformatics, with a proven track record of successfully driving research projects. 
+Research scientist specializing in genetics, genomics, and bioinformatics, with a demonstrated track record of effectively leading diverse projects. 
 
-Committed to making a meaningful and lasting impact by driving positive change and contributing to advancements that benefit society.  
-  
 
 
 Relevant Experience {data-icon=suitcase}
@@ -105,11 +103,23 @@ University of California, Riverside
 
 Riverside, CA
 
-2022 - 2017
+2022 - 2016
 
 - Executed 3 original research projects in computational biology, genomics, and population genetics as part of 2 international collaborations resulting in 1 peer-reviewed publication, 2 oral presentations, and 4 poster presentations   
 - Demonstrated leadership and project management skills by managing 5 direct report mentees   
 - Designed and implemented bioinformatic pipelines to analyze next-generation sequencing (NGS) data in a unix-based high-performance computing (HPC) environment   
+
+### Quality Control Laboratory Technician
+
+Charles Krug Winery
+
+St. Helena, CA
+
+2015 - 2016
+
+- Conducted enology laboratory tests at all stages of production to ensure compliance with legal and product quality specifications  
+- Promoted from Harvest Laboratory Technician role within 6 months
+- Developed 5 SOPs for quality control laboratory assays 
 
 
 Education {data-icon=graduation-cap data-concise=true}
