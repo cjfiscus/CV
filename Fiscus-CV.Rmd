@@ -95,6 +95,8 @@ Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N
 # Selected Presentations
 **Fiscus CJ**, Koenig D. The genetic control of rapid genome content divergence in *Arabidopsis thaliana*. Poster. SMBE 2023. Ferrara, Italy  
 
+**Fiscus CJ**, Koenig D. The genetic control of rapid genome content divergence in *Arabidopsis thaliana*. Talk. SMBEeverywhere GS7. Online  
+
 **Fiscus CJ**. Causes and consequences of plant genome evolution. Seminar. January 2023.  Friends of Evolution Seminar Series, Dept. of Ecology and Evolutionary Biology UC Irvine. Irvine, CA, USA  
 
 <!-- Koenig D+, **Fiscus CJ**, Abberton M, Close TJ, Muñoz-Amatriaín M, Oyatomi O. A genetic framework to understand climate adaptation in cowpea. Oral. PAG30. San Diego, CA, USA --> 
@@ -109,7 +111,7 @@ Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N
 
 <!-- Landis JB, **Fiscus CJ**, Guercio A, Koenig D+. [The genetic architecture of adaptation in the long term barley composite cross experiments.](https://plan.core-apps.com/pag_2020/abstract/6f7bedec-7049-40b5-a8c3-d18eb5a858eb). Talk. PAG XXVIII. San Diego, CA --> 
 
-**Fiscus CJ**, Koenig D. A catalog of genome content variation in *Arabidopsis thaliana*. Talk. Annual Genetics, Genomics, and Bioinformatics Student Symposium 2019. Riverside, CA, USA 
+<!-- **Fiscus CJ**, Koenig D. A catalog of genome content variation in *Arabidopsis thaliana*. Talk. Annual Genetics, Genomics, and Bioinformatics Student Symposium 2019. Riverside, CA, USA --> 
 
 **Fiscus CJ**, Koenig D. A K-mer based approach to characterize the dark matter of the *Arabidopsis thaliana* genome. Poster. Southern California Evolutionary Genetics and Genomics Meeting 2019. Irvine, CA, USA  
 
@@ -127,7 +129,7 @@ Valdez CR, **Fiscus CJ**, Koenig D. Characterization of genome content variation
 UCR Graduate Student Association Conference Travel Grant- $400 \hfill 2022  
 Earle C. Anthony Graduate Student Travel Award (UCR)-$1000 \hfill 2020  
 UCR Graduate Student Association Conference Travel Grant- $900 \hfill 2019  
-Best Student Appetizer, Botany and Plant Sciences Holiday Party \hfill 2017, 2018, 2019    
+Best Student Appetizer, UCR Botany and Plant Sciences Holiday Party \hfill 2017, 2018, 2019    
 Dean's Distinguished Fellowship (UCR)- $210,938 \hfill 2016 - 2021    
 <!-- California Highway Patrol 11-99 Foundation Scholarship \hfill 2011 - 2015 --> 
 
