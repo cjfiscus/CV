@@ -4,5 +4,4 @@
 ## requires LaTeX installation
 
 echo "rmarkdown::render('Fiscus-CV.Rmd', clean=TRUE)" | R --slave
-
-Rscript render_resume.R
+echo "rmarkdown::render('Fiscus-RESUME.Rmd', clean=TRUE)" | R --slave

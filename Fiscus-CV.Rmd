@@ -5,6 +5,7 @@ header-includes:
 - \usepackage{multicol}
 - \usepackage{helvet}
 - \usepackage[T1]{fontenc}
+- \usepackage{orcidlink}
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
 - \setlength{\headheight}{0pt}
@@ -85,7 +86,12 @@ Introductory LEGO Mindstorms NXT Robotics \hfill Summer 2012 - 2014
 Advanced LEGO Mindstorms NXT Robotics \hfill Summer 2013 - 2014  
 Video Game Programming for Kids \hfill Summer 2014  
 
-# Publications
+# Publications \orcidlink{https://orcid.org/0000-0001-9569-1809} `0000-0001-9569-1809`   
+
+## Preprints  
+Landis JB, Guercio AM, Brown KE, **Fiscus CJ**, Morrell PL, Koenig D. Natural selection drives emergent genetic homogeneity in a century-scale experiment with barley. bioRxiv. 2023. p. 2023.09.22.557807. doi:10.1101/2023.09.22.557807  
+
+## In press
 <!-- use PLoS Genetics citation style but add all authors -->
 Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N, Nelson DC. A KARRIKIN INSENSITIVE2 paralog in lettuce mediates highly sensitive germination responses to karrikinolide. Plant Physiol. 2022. doi:10.1093/plphys/kiac328
 

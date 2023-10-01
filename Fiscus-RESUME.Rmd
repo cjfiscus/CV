@@ -1,143 +1,107 @@
 ---
-title: "Christopher Fiscus' resume"
-author: Christopher J. Fiscus
-date: "`r Sys.Date()`"
+geometry: margin=0.5in
+header-includes: 
+- \usepackage{hyperref}
+- \usepackage{multicol}
+- \usepackage{helvet}
+- \usepackage[T1]{fontenc}
+- \usepackage{orcidlink}
+- \usepackage{fancyhdr}
+- \pagestyle{fancy}
+- \setlength{\headheight}{0pt}
+- \renewcommand\familydefault{\sfdefault} 
+- \geometry{footskip=0.5cm}
+- \usepackage{titlesec}
+-  \titlespacing{\section}{1pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+-  \titlespacing{\subsection}{1pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+-  \titlespacing{\subsubsection}{1pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+- \fancyhead{}
+- \fancyhead[R]{resume for Christopher J. Fiscus, PhD}
+- \usepackage{enumitem}
+- \setlist[itemize]{topsep=0pt}
 output:
-  pagedown::html_resume:
-    # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: true
-    css: custom_resume.css
-# uncomment this line to produce HTML and PDF in RStudio:
-knit: pagedown::chrome_print
+  pdf_document:
+    includes:
+      in_header: header.tex
+  github_document: default
+  word_document: default
+li {list-style-type: none;}
+fontsize: 11pt
 ---
+\thispagestyle{plain}
+\begin{multicols}{2}
+\begin{flushleft}
+{\LARGE \textbf{Christopher J. Fiscus, PhD}\par}
+\textbf{Bioinformatics Scientist} \\   
+Irvine, California
+\end{flushleft}
 
-```{css, echo=FALSE}
-.aside {
-  padding-top: 0;
-}
+\columnbreak
 
-.aside > p:first-of-type {
-  margin-top: 0;
-}
-```
+\begin{flushright}
+\begin{tabular}{rp{0.30\linewidth}}
+\faPhone & \href{tel:+12096139384}{1-209-613-9384} \\
+\faEnvelopeO & \href{mailto:fiscuscj@gmail.com}{fiscuscj@gmail.com} \\
+\faLinkedin & \href{https://www.linkedin.com/in/fiscuscj}{fiscuscj} \\
+\faGithub & \href{https://github.com/cjfiscus}{cjfiscus} 
+\end{tabular}
+\end{flushright}
 
-Aside
-================================================================================
-Contact {#contact}
---------------------------------------------------------------------------------
-
-- <i class="fa fa-phone"></i> +1 209-613-9384
-- <i class="fa fa-envelope"></i> fiscuscj@gmail.com
-- <i class="fa fa-linkedin"></i> [/in/fiscuscj](www.linkedin.com/in/fiscuscj)
-
-
-Skills {#skills}
---------------------------------------------------------------------------------
-
-- **General**   
-Data analysis   
-Data visualization  
-Statistical programming  
-Project management  
-Problem-solving  
-Communication  
-
-- **Programming languages**  
-R, bash, python
-
-- **NGS analysis & algorithms**   
-bwa, GATK, samtools, bedtools, fastqc, plink
-
-- **High-performance computing**   
-slurm, CentOS, Unix
-
-- **Misc computational tools**  
-conda (package manager)   
-git (version control)  
-snakemake (workflows)  
+\end{multicols}
 
 
+## Summary
+Research scientist with experience in computational biology and bioinformatics, especially with analysis of next-generation sequencing data using high-performance computing systems. Proven track record of driving scientific research projects as part of a cross-functional team. Expert communicator with ability to translate technical information for diverse stakeholders. 
 
-Hobbies {#hobbies}
---------------------------------------------------------------------------------
+## Professional Experience
+**Postdoctoral Researcher** \hfill 2022 - Present  
+University of California, Irvine \hfill Irvine, CA  
 
-**Music**   
-play guitar and bass
+* Executing scientific research projects studying wild grape genomics  
 
-**Photography**  
-landscapes, astro, plants
+* Organized Southern California Evolutionary Genetics and Genomics Meeting (~100 attendees)  
 
-
-
-Main
-================================================================================
-
-Christopher J. Fiscus, PhD {#title}
---------------------------------------------------------------------------------
-
-### Bioinformatics Scientist
-
-Research scientist specializing in genetics, genomics, and bioinformatics, with a demonstrated track record of effectively leading diverse projects. 
+* Communicated project progress to stakeholders as evidenced by 2 oral presentations  
 
 
+**Graduate Student Researcher** \hfill 2016 - 2022  
+University of California, Riverside \hfill Riverside, CA  
 
-Relevant Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
+* Led 3 computational biology research projects resulting in 2 publications, 1 oral presentation, and 4 poster presentations  
 
-### Postdoctoral Researcher
+* Demonstrated leadership and project management skills by mentoring 5 direct reports   
 
-University of California, Irvine
-
-Irvine, CA
-
-Present - 2022
-
-- Designing and executing 3 original research projects in population and quantitative genetics by combining domain-specific knowledge with data analysis and visualization   
-- Creating and implementing bioinformatic pipelines and workflows to analyze next-generation sequencing (NGS) data in a high-performance computing (HPC) environment   
--  Communicating progress towards project objectives to stakeholders in a variety of mediums including oral presentations and written reports   
+* Taught discussion sections for 4 college-level courses in genomics and bioinformatics (3X) and genetics (1X)    
 
 
-### Graduate Student Researcher
+**Quality Control Laboratory Technician** \hfill 2015 - 2016  
+Charles Krug Winery \hfill St. Helena, CA  
 
+* Conducted enology laboratory tests at all stages of production to ensure compliance with legal and product quality specifications  
+
+* Developed 5 SOPs for quality control laboratory assays  
+
+* Promoted from Harvest Laboratory Technician role within 6 months  
+
+
+## Skills
+* **General** - data analysis and visualization, problem-solving, statistical programming, communication  
+
+* **Programming** - R, python, bash  
+
+* **Bioinformatics** - NGS analysis: bwa, GATK, samtools, bedtools, plink   
+
+* **Computing** - Unix, SLURM, conda, git (version control), snakemake (workflow) 
+
+## Education   
+**Ph.D. Genetics, Genomics and Bioinformatics** \hfill 2022  
 University of California, Riverside
 
-Riverside, CA
-
-2022 - 2016
-
-- Executed 3 original research projects in computational biology, genomics, and population genetics as part of 2 international collaborations resulting in 1 peer-reviewed publication, 2 oral presentations, and 4 poster presentations   
-- Demonstrated leadership and project management skills by managing 5 direct report mentees   
-- Designed and implemented bioinformatic pipelines to analyze next-generation sequencing (NGS) data in a unix-based high-performance computing (HPC) environment   
-
-### Quality Control Laboratory Technician
-
-Charles Krug Winery
-
-St. Helena, CA
-
-2015 - 2016
-
-- Conducted enology laboratory tests at all stages of production to ensure compliance with legal and product quality specifications  
-- Promoted from Harvest Laboratory Technician role within 6 months
-- Developed 5 SOPs for quality control laboratory assays 
-
-
-Education {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
-
-### PhD Genetics, Genomics and Bioinformatics
-
-University of California, Riverside
-
-N/A
-
-2022
-
-
-### BS Biotechnology
-
+**B.S. Biotechnology** \hfill 2015  
 University of California, Davis
 
-N/A
+## Publications \orcidlink{https://orcid.org/0000-0001-9569-1809} `0000-0001-9569-1809`
+<!-- use PLoS Genetics citation style but add all authors -->
+Landis JB, Guercio AM, Brown KE, **Fiscus CJ**, Morrell PL, Koenig D. Natural selection drives emergent genetic homogeneity in a century-scale experiment with barley. bioRxiv. 2023. p. 2023.09.22.557807. doi:10.1101/2023.09.22.557807  
 
-2015
+Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N, Nelson DC. A KARRIKIN INSENSITIVE2 paralog in lettuce mediates highly sensitive germination responses to karrikinolide. Plant Physiol. 2022. doi:10.1093/plphys/kiac328
