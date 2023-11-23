@@ -125,7 +125,7 @@ Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N
 
 <!-- Landis JB+, Nguyen J, Villamor I, Guercio A, **Fiscus CJ**, Quigley M, Ophelders T, Eithun M, Munch E, Chitwood D, Koenig D. [Integrating next-generation high resolution phenotype acquisition with genotypes to study adaptation in barley (Hordeum vulgare)](https://2019.botanyconference.org/engine/search/365.html?func=detail&aid=365). Oral. Botany 2019. Tucson, AZ -->
 
-Valdez CR, **Fiscus CJ**, Koenig D. Characterization of genome content variation in *Oryza sativa*. Poster. UCR Graduate Program in Genetics, Genomics and Bioinformatics Symposium 2019. Poster. Riverside, CA, USA  
+<!-- Valdez CR, **Fiscus CJ**, Koenig D. Characterization of genome content variation in *Oryza sativa*. Poster. UCR Graduate Program in Genetics, Genomics and Bioinformatics Symposium 2019. Poster. Riverside, CA, USA --> 
 
 <!-- Landis JB+, Guercio AM, **Fiscus CJ**, Koenig D. [Phenotypic variation and genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](http://2018.botanyconference.org/engine/search/index.php?func=detail&aid=294). Oral. Botany 2018. Rochester, MN --> 
 

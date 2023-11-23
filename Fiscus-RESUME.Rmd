@@ -51,7 +51,7 @@ Irvine, California
 
 
 ## Summary
-Research scientist with experience in computational biology and bioinformatics, especially with analysis of next-generation sequencing data using high-performance computing systems. Proven track record of driving scientific research projects as part of a cross-functional team. Expert communicator with ability to translate technical information for diverse stakeholders. 
+Research scientist with experience in computational biology and bioinformatics, specializing in analysis of next-generation sequencing data using high-performance computing systems. Proven track record of driving scientific research projects as part of a cross-functional team. Expert communicator with ability to translate technical information for diverse stakeholders. 
 
 ## Professional Experience
 **Postdoctoral Researcher** \hfill 2022 - Present  
@@ -89,7 +89,7 @@ Charles Krug Winery \hfill St. Helena, CA
 
 * **Programming** - R, python, bash  
 
-* **Bioinformatics** - NGS analysis: bwa, GATK, samtools, bedtools, plink   
+* **Bioinformatics** - NGS data analysis: bwa, GATK, samtools, bedtools, plink   
 
 * **Computing** - Unix, SLURM, conda, git (version control), snakemake (workflow) 
 
@@ -99,6 +99,10 @@ University of California, Riverside
 
 **B.S. Biotechnology** \hfill 2015  
 University of California, Davis
+
+## Certifications
+**AWS Cloud Technical Essentials** \hfill Nov 2023  
+Coursera 
 
 ## Publications \orcidlink{https://orcid.org/0000-0001-9569-1809} `0000-0001-9569-1809`
 <!-- use PLoS Genetics citation style but add all authors -->
