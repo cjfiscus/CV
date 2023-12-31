@@ -88,7 +88,9 @@ Video Game Programming for Kids \hfill Summer 2014
 
 # Publications \orcidlink{https://orcid.org/0000-0001-9569-1809} `0000-0001-9569-1809`   
 
-## Preprints  
+## Preprints 
+**Fiscus CJ**, Herniter IA, Tchamba M, Paliwal R, Muñoz-Amatriaín M, Roberts PA, Abberton M, Alaba O, Close TJ, Oyatomi O, Koenig D. The pattern of genetic variability in a core collection of 2,021 cowpea accessions. bioRxiv. 2023. p. 2023.12.21.572659. doi:10.1101/2023.12.21.572659  
+
 Landis JB, Guercio AM, Brown KE, **Fiscus CJ**, Morrell PL, Koenig D. Natural selection drives emergent genetic homogeneity in a century-scale experiment with barley. bioRxiv. 2023. p. 2023.09.22.557807. doi:10.1101/2023.09.22.557807  
 
 ## In press
@@ -99,11 +101,13 @@ Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N
 <!-- **Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript* --> 
 
 # Selected Presentations
+**Fiscus CJ**, Landis JB, Morales-Cruz A, Gaut BS. Disentangling the evolution of grape crop wild relatives. Talk. Southern California Plant Biology Symposium. Riverside, CA, USA   
+
 **Fiscus CJ**, Koenig D. The genetic control of rapid genome content divergence in *Arabidopsis thaliana*. Poster. SMBE 2023. Ferrara, Italy  
 
 **Fiscus CJ**, Koenig D. The genetic control of rapid genome content divergence in *Arabidopsis thaliana*. Talk. SMBEeverywhere GS7. Online  
 
-**Fiscus CJ**. Causes and consequences of plant genome evolution. Seminar. January 2023.  Friends of Evolution Seminar Series, Dept. of Ecology and Evolutionary Biology UC Irvine. Irvine, CA, USA  
+**Fiscus CJ**. Causes and consequences of plant genome evolution. Seminar. January 2023.  Friends of Evolution Seminar Series, Dept. of Ecology and Evolutionary Biology UC Irvine. Irvine, CA, USA
 
 <!-- Koenig D+, **Fiscus CJ**, Abberton M, Close TJ, Muñoz-Amatriaín M, Oyatomi O. A genetic framework to understand climate adaptation in cowpea. Oral. PAG30. San Diego, CA, USA --> 
 

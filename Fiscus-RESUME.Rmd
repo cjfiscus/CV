@@ -61,7 +61,7 @@ University of California, Irvine \hfill Irvine, CA
 
 * Organized Southern California Evolutionary Genetics and Genomics Meeting (~100 attendees)  
 
-* Communicated project progress to stakeholders as evidenced by 2 oral presentations  
+* Team lead for Pan-Structural Variation Hackathon in the Cloud (hosted by Baylor College of Medicine)
 
 
 **Graduate Student Researcher** \hfill 2016 - 2022  
@@ -106,6 +106,8 @@ Coursera
 
 ## Publications \orcidlink{https://orcid.org/0000-0001-9569-1809} `0000-0001-9569-1809`
 <!-- use PLoS Genetics citation style but add all authors -->
+**Fiscus CJ**, Herniter IA, Tchamba M, Paliwal R, Muñoz-Amatriaín M, Roberts PA, Abberton M, Alaba O, Close TJ, Oyatomi O, Koenig D. The pattern of genetic variability in a core collection of 2,021 cowpea accessions. bioRxiv. 2023. p. 2023.12.21.572659. doi:10.1101/2023.12.21.572659  
+
 Landis JB, Guercio AM, Brown KE, **Fiscus CJ**, Morrell PL, Koenig D. Natural selection drives emergent genetic homogeneity in a century-scale experiment with barley. bioRxiv. 2023. p. 2023.09.22.557807. doi:10.1101/2023.09.22.557807  
 
 Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N, Nelson DC. A KARRIKIN INSENSITIVE2 paralog in lettuce mediates highly sensitive germination responses to karrikinolide. Plant Physiol. 2022. doi:10.1093/plphys/kiac328
