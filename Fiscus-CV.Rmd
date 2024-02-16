@@ -51,40 +51,40 @@ Advisor: [Dr. Daniel Koenig](https://iigb.ucr.edu/koenig/)
 **B.S. Biotechnology**, University of California, Davis \hfill 2015  
 
 # Professional Experience
-**Postdoctoral Scholar**, University of California, Irvine \hfill 2022 - Present  
+**Postdoctoral Scholar**, University of California, Irvine \hfill 09/2022 - Present  
 Dept of Ecology and Evolutionary Biology  
 Advisor: [Dr. Brandon Gaut](https://www.faculty.uci.edu/profile.cfm?faculty_id=4561)
 
-**Graduate Student Researcher**, University of California, Riverside \hfill 2016 - 2022  
+**Graduate Student Researcher**, University of California, Riverside \hfill 09/2016 - 09/2022  
 Dept of Botany and Plant Sciences   
 Advisor: [Dr. Daniel Koenig](https://iigb.ucr.edu/koenig/)
 
-**Quality Control Laboratory Technician**, Charles Krug Winery \hfill 2015 - 2016  
+**Quality Control Laboratory Technician**, Charles Krug Winery \hfill 12/2015 - 08/2016  
 
-**Harvest Laboratory Technician**, Charles Krug Winery (via Apex Life Sciences) \hfill 2015 
+**Harvest Laboratory Technician**, Charles Krug Winery (via Apex Life Sciences) \hfill 08/2015 - 12/2015 
 
-**Undergraduate Researcher**, University of California, Davis \hfill 2014  
+**Undergraduate Researcher**, University of California, Davis \hfill 01/2014 - 10/2014  
 Advisor: [Dr. Jeffrey Ross-Ibarra](https://biology.ucdavis.edu/people/jeffrey-ross-ibarra)  
 
-**Undergraduate Intern**, University of California, Davis \hfill Spring 2012  
+**Undergraduate Intern**, University of California, Davis \hfill 03/2012 - 06/2012  
 Advisor: [Dr. Kent J. Bradford](https://www.plantsciences.ucdavis.edu/people/kent-bradford) 
 
 # Teaching Experience
 **Guest Lecturer**, University of California, Riverside  
-BIOL 119. Introduction to Genomics and Bioinformatics. \hfill Winter 2020   
+BIOL 119. Introduction to Genomics and Bioinformatics. \hfill 02/2020   
 Lecture: Genomics, Phenotype and Disease. 
 
 **Teaching Assistant**, University of California, Riverside  
-BIOL 119. Introduction to Genomics and Bioinformatics \hfill Winter 2019, 2020, 2021   
-BIOL 102. Introductory Genetics \hfill Winter 2018 
+BIOL 119. Introduction to Genomics and Bioinformatics \hfill 01-03/2019, 01-03/2020, 01-03/2021   
+BIOL 102. Introductory Genetics \hfill 01-03/2018 
 
 **Community Education Instructor**, Modesto Junior College   
-Science Camp \hfill Summer 2013 - 2014 
+Science Camp \hfill 06-08/2013, 06-08/2014 
 
 **Community Education Assistant Instructor**, Modesto Junior College  
-Introductory LEGO Mindstorms NXT Robotics \hfill Summer 2012 - 2014   
-Advanced LEGO Mindstorms NXT Robotics \hfill Summer 2013 - 2014  
-Video Game Programming for Kids \hfill Summer 2014  
+Introductory LEGO Mindstorms NXT Robotics \hfill 06-08/2012, 06-08/2013, 06-08/2014   
+Advanced LEGO Mindstorms NXT Robotics \hfill 06-08/2013, 06-08/2014  
+Video Game Programming for Kids \hfill 06-08/2014  
 
 # Publications \orcidlink{https://orcid.org/0000-0001-9569-1809} `0000-0001-9569-1809`   
 
@@ -101,13 +101,15 @@ Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N
 <!-- **Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript* --> 
 
 # Selected Presentations
-**Fiscus CJ**, Landis JB, Morales-Cruz A, Gaut BS. Disentangling the evolution of grape crop wild relatives. Talk. Southern California Plant Biology Symposium. Riverside, CA, USA   
+**Fiscus CJ**, Landis JB, Morales-Cruz A, Gaut BS. Disentangling the evolution of grape crop wild relatives. Talk. Plant and Animal Genome Conference 31. San Diego, CA, USA   
+
+**Fiscus CJ**, Landis JB, Morales-Cruz A, Gaut BS. Disentangling the evolution of grape crop wild relatives. Talk. Southern California Plant Biology Symposium 2023. Riverside, CA, USA   
 
 **Fiscus CJ**, Koenig D. The genetic control of rapid genome content divergence in *Arabidopsis thaliana*. Poster. SMBE 2023. Ferrara, Italy  
 
 **Fiscus CJ**, Koenig D. The genetic control of rapid genome content divergence in *Arabidopsis thaliana*. Talk. SMBEeverywhere GS7. Online  
 
-**Fiscus CJ**. Causes and consequences of plant genome evolution. Seminar. January 2023.  Friends of Evolution Seminar Series, Dept. of Ecology and Evolutionary Biology UC Irvine. Irvine, CA, USA
+**Fiscus CJ**. Causes and consequences of plant genome evolution. Seminar. 01/2023.  Friends of Evolution Seminar Series, Dept. of Ecology and Evolutionary Biology UC Irvine. Irvine, CA, USA
 
 <!-- Koenig D+, **Fiscus CJ**, Abberton M, Close TJ, Muñoz-Amatriaín M, Oyatomi O. A genetic framework to understand climate adaptation in cowpea. Oral. PAG30. San Diego, CA, USA --> 
 
@@ -144,11 +146,11 @@ Dean's Distinguished Fellowship (UCR)- $210,938 \hfill 2016 - 2021
 <!-- California Highway Patrol 11-99 Foundation Scholarship \hfill 2011 - 2015 --> 
 
 # Outreach
-Scientist Mentor, [PlantingScience](https://www.plantingscience.org/) \hfill 2017 - 2020    
-Volunteer, UC Riverside Plant Discovery Day \hfill April 2019   
+Scientist Mentor, [PlantingScience](https://www.plantingscience.org/) \hfill 09/2017 - 05/2020    
+Volunteer, UC Riverside Plant Discovery Day \hfill 04/2019   
 <!-- National History Day Judge, Riverside Unified School District \hfill January 2018 --> 
-Master Plant Science Team, [PlantingScience](https://www.plantingscience.org/) \hfill 2017 - 2018    
-Guest Speaker, James C. Enochs High School Forensics/Biotechnology Career Pathway Program \hfill March 2017  
+Master Plant Science Team, [PlantingScience](https://www.plantingscience.org/) \hfill 09/2017 - 05/2018    
+Guest Speaker, James C. Enochs High School Forensics/Biotechnology Career Pathway Program \hfill 03/2017  
 <!-- Design / Core Values Judge, FIRST LEGO League \hfill 2010 - 2014 --> 
 
 # Service
@@ -166,5 +168,5 @@ Livia Nguyen, UCR undergraduate \hfill 2020
 Caitlin Santos, UCR undergraduate \hfill 2019 - 2021    
 <!-- Kirsten Trimble, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill Summer 2019 -->
 Johnny Nguyen-Tran, UCR undergraduate \hfill 2019      
-Chris Roland Valdez, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill Summer 2018  
-Selena Burke, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill Summer 2017  
+Chris Roland Valdez, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill 06-08/2018  
+Selena Burke, NSF-CEPCEB REU Program in Next Generation Plant Biology \hfill 06-08/2017  

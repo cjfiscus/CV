@@ -51,47 +51,56 @@ Irvine, California
 
 
 ## Summary
-Research scientist with experience in computational biology and bioinformatics, specializing in analysis of next-generation sequencing data using high-performance computing systems. Proven track record of driving scientific research projects as part of a cross-functional team. Expert communicator with ability to translate technical information for diverse stakeholders. 
+Research scientist with extensive experience in bioinformatics and computational biology, specializing in analysis of next-generation sequencing data using high-performance computing systems. Proven track record of driving scientific research projects as part of a cross-functional team. Expert communicator with ability to translate technical information for diverse stakeholders. 
 
 ## Professional Experience
-**Postdoctoral Researcher** \hfill 2022 - Present  
+**Postdoctoral Researcher** \hfill 09/2022 - Present  
 University of California, Irvine \hfill Irvine, CA  
 
-* Executing scientific research projects studying wild grape genomics  
-
-* Organized Southern California Evolutionary Genetics and Genomics Meeting (~100 attendees)  
+* Leading computational biology-based research projects studying wild grape genomics  
 
 * Team lead for Pan-Structural Variation Hackathon in the Cloud (hosted by Baylor College of Medicine)
 
+* Organized Southern California Evolutionary Genetics and Genomics Meeting (~100 attendees)  
 
-**Graduate Student Researcher** \hfill 2016 - 2022  
+
+**Graduate Student Researcher** \hfill 09/2016 - 09/2022  
 University of California, Riverside \hfill Riverside, CA  
 
-* Led 3 computational biology research projects resulting in 2 publications, 1 oral presentation, and 4 poster presentations  
+* Led 3 scientific research projects resulting in 3 publications and 8 conference presentations (2 talks, 6 posters) 
 
-* Demonstrated leadership and project management skills by mentoring 5 direct reports   
+* Demonstrated leadership and project management skills by individually mentoring 5 direct reports   
 
 * Taught discussion sections for 4 college-level courses in genomics and bioinformatics (3X) and genetics (1X)    
 
 
-**Quality Control Laboratory Technician** \hfill 2015 - 2016  
+**Quality Control Laboratory Technician** \hfill 12/2015 - 08/2016  
 Charles Krug Winery \hfill St. Helena, CA  
 
-* Conducted enology laboratory tests at all stages of production to ensure compliance with legal and product quality specifications  
+* Performed enology laboratory tests throughout production to ensure legal compliance and quality standards   
 
 * Developed 5 SOPs for quality control laboratory assays  
 
-* Promoted from Harvest Laboratory Technician role within 6 months  
+* Identified, troubleshot, and addressed product quality issues in collaboration with production team   
 
+
+**Harvest Laboratory Technician** \hfill 08/2015 - 12/2015  
+Charles Krug Winery (via Apex Life Sciences) \hfill St. Helena, CA
+
+* Conducted enology laboratory analyses and sensory evaluations supporting all stages of the winemaking process 
+
+* Maintained strict adherence to SOPs and contributed to quality assurance initiatives 
+
+* Managed sample collection, bench trials, and blending experiments to optimize product characteristics
 
 ## Skills
-* **General** - data analysis and visualization, problem-solving, statistical programming, communication  
+* **General** - data analysis & visualization, problem-solving, statistics, statistical programming 
 
-* **Programming** - R, python, bash  
+* **Programming** - R, bash, python 
 
-* **Bioinformatics** - NGS data analysis: bwa, GATK, samtools, bedtools, plink   
+* **Bioinformatics** - NGS data analysis, SNP calling, GWAS, bwa, GATK, samtools/bcftools, bedtools, plink   
 
-* **Computing** - Unix, SLURM, conda, git (version control), snakemake (workflow) 
+* **Computing** - Unix command line, SLURM (HPC), conda, git (version control), snakemake (workflow) 
 
 ## Education   
 **Ph.D. Genetics, Genomics and Bioinformatics** \hfill 2022  
@@ -101,7 +110,7 @@ University of California, Riverside
 University of California, Davis
 
 ## Certifications
-**AWS Cloud Technical Essentials** \hfill Nov 2023  
+**AWS Cloud Technical Essentials** \hfill 11/2023  
 Coursera 
 
 ## Publications \orcidlink{https://orcid.org/0000-0001-9569-1809} `0000-0001-9569-1809`

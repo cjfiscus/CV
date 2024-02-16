@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.9.21)  30 DEC 2023 21:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.9.21)  15 FEB 2024 19:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1113,12 +1113,12 @@ ap/pdftex.map}{/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/e
 nc/dvips/base/8r.enc}{/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/
 fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/opt/homebrew/Cellar/texlive/20
 230313_2/share/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 238--247
+Underfull \hbox (badness 10000) in paragraph at lines 242--251
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--259
+Underfull \hbox (badness 10000) in paragraph at lines 254--263
 
  []
 
@@ -1132,7 +1132,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 
 [2{/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/enc/dvips/lm/
 lm-ec.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 269--271
+Underfull \hbox (badness 10000) in paragraph at lines 273--275
 
  []
 
@@ -1146,11 +1146,11 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 
 [3] (./Fiscus-CV.aux) ) 
 Here is how much of TeX's memory you used:
- 25836 strings out of 476025
- 483358 string characters out of 5779036
+ 25830 strings out of 476025
+ 483310 string characters out of 5779036
  1864388 words of memory out of 5000000
  45686 multiletter control sequences out of 15000+600000
- 556101 words of font info for 139 fonts, out of 8000000 for 9000
+ 555879 words of font info for 135 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,94p,1006b,712s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dis
@@ -1161,7 +1161,7 @@ omebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/urw/helvetic/uhv
 b8a.pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/u
 rw/helvetic/uhvr8a.pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dis
 t/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Fiscus-CV.pdf (3 pages, 102549 bytes).
+Output written on Fiscus-CV.pdf (3 pages, 102609 bytes).
 PDF statistics:
  133 PDF objects out of 1000 (max. 8388607)
  113 compressed objects within 2 object streams
