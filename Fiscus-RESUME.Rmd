@@ -115,7 +115,7 @@ Coursera
 
 ## Publications \orcidlink{https://orcid.org/0000-0001-9569-1809} `0000-0001-9569-1809`
 <!-- use PLoS Genetics citation style but add all authors -->
-**Fiscus CJ**, Herniter IA, Tchamba M, Paliwal R, Muñoz-Amatriaín M, Roberts PA, Abberton M, Alaba O, Close TJ, Oyatomi O, Koenig D. The pattern of genetic variability in a core collection of 2,021 cowpea accessions. bioRxiv. 2023. p. 2023.12.21.572659. doi:10.1101/2023.12.21.572659  
+**Fiscus CJ**, Herniter IA, Tchamba M, Paliwal R, Muñoz-Amatriaín M, Roberts PA, Abberton M, Alaba O, Close TJ, Oyatomi O, Koenig D. The pattern of genetic variability in a core collection of 2,021 cowpea accessions. G3. 2024. doi:10.1093/g3journal/jkae071 
 
 Landis JB, Guercio AM, Brown KE, **Fiscus CJ**, Morrell PL, Koenig D. Natural selection drives emergent genetic homogeneity in a century-scale experiment with barley. bioRxiv. 2023. p. 2023.09.22.557807. doi:10.1101/2023.09.22.557807  
 

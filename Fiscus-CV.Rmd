@@ -89,12 +89,12 @@ Video Game Programming for Kids \hfill 06-08/2014
 # Publications \orcidlink{https://orcid.org/0000-0001-9569-1809} `0000-0001-9569-1809`   
 
 ## Preprints 
-**Fiscus CJ**, Herniter IA, Tchamba M, Paliwal R, Muñoz-Amatriaín M, Roberts PA, Abberton M, Alaba O, Close TJ, Oyatomi O, Koenig D. The pattern of genetic variability in a core collection of 2,021 cowpea accessions. bioRxiv. 2023. p. 2023.12.21.572659. doi:10.1101/2023.12.21.572659  
-
 Landis JB, Guercio AM, Brown KE, **Fiscus CJ**, Morrell PL, Koenig D. Natural selection drives emergent genetic homogeneity in a century-scale experiment with barley. bioRxiv. 2023. p. 2023.09.22.557807. doi:10.1101/2023.09.22.557807  
 
 ## In press
 <!-- use PLoS Genetics citation style but add all authors -->
+**Fiscus CJ**, Herniter IA, Tchamba M, Paliwal R, Muñoz-Amatriaín M, Roberts PA, Abberton M, Alaba O, Close TJ, Oyatomi O, Koenig D. The pattern of genetic variability in a core collection of 2,021 cowpea accessions. G3. 2024. doi:10.1093/g3journal/jkae071 
+
 Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N, Nelson DC. A KARRIKIN INSENSITIVE2 paralog in lettuce mediates highly sensitive germination responses to karrikinolide. Plant Physiol. 2022. doi:10.1093/plphys/kiac328
 
 <!-- ### NON-PEER REVIEWED PUBLICATIONS -->
@@ -138,6 +138,7 @@ Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N
 <!-- Landis JB+, **Fiscus CJ**, Guercio AM, Koenig D. [Elucidating the genetic control of long-term success in a near century long study of barley (Hordeum vulgare)](https://www.evolutionmeetings.org/uploads/4/8/8/0/48804503/final_evol2017_program.pdf). Oral. Evolution 2017. Portland, OR --> 
 
 # Awards and Fellowships
+SMBE 2024 Young Investigator Award- $2000 \hfill 2024  
 UCR Graduate Student Association Conference Travel Grant- $400 \hfill 2022  
 Earle C. Anthony Graduate Student Travel Award (UCR)-$1000 \hfill 2020  
 UCR Graduate Student Association Conference Travel Grant- $900 \hfill 2019  

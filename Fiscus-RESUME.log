@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.9.21)  15 FEB 2024 19:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.9.21)  17 MAY 2024 10:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1148,7 +1148,7 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 lm-ec.enc}] (./Fiscus-RESUME.aux) ) 
 Here is how much of TeX's memory you used:
  26405 strings out of 476025
- 492471 string characters out of 5779036
+ 492474 string characters out of 5779036
  1868388 words of memory out of 5000000
  46290 multiletter control sequences out of 15000+600000
  547368 words of font info for 119 fonts, out of 8000000 for 9000
@@ -1161,7 +1161,7 @@ omebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/public/lm/lmtk10
 .pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/type1/urw/
 helvetic/uhvb8a.pfb></opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/f
 onts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Fiscus-RESUME.pdf (2 pages, 80485 bytes).
+Output written on Fiscus-RESUME.pdf (2 pages, 80492 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  61 compressed objects within 1 object stream
