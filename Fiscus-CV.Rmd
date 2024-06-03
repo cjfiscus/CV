@@ -101,6 +101,8 @@ Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N
 <!-- **Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript* --> 
 
 # Selected Presentations
+**Fiscus CJ**, Aguirre-Liguori JA, Gaut GRJ, Gaut BS. Landscape genomics and mutational load in *Vitis arizonica*. Talk. Southern California Evolutionary Genetics and Genomics Meeting (SCalE) 2024. Pasadena, CA, USA   
+
 **Fiscus CJ**, Landis JB, Morales-Cruz A, Gaut BS. Disentangling the evolution of grape crop wild relatives. Talk. Plant and Animal Genome Conference 31. San Diego, CA, USA   
 
 **Fiscus CJ**, Landis JB, Morales-Cruz A, Gaut BS. Disentangling the evolution of grape crop wild relatives. Talk. Southern California Plant Biology Symposium 2023. Riverside, CA, USA   
@@ -125,7 +127,7 @@ Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N
 
 <!-- **Fiscus CJ**, Koenig D. A catalog of genome content variation in *Arabidopsis thaliana*. Talk. Annual Genetics, Genomics, and Bioinformatics Student Symposium 2019. Riverside, CA, USA --> 
 
-**Fiscus CJ**, Koenig D. A K-mer based approach to characterize the dark matter of the *Arabidopsis thaliana* genome. Poster. Southern California Evolutionary Genetics and Genomics Meeting 2019. Irvine, CA, USA  
+**Fiscus CJ**, Koenig D. A K-mer based approach to characterize the dark matter of the *Arabidopsis thaliana* genome. Poster. Southern California Evolutionary Genetics and Genomics Meeting (SCalE) 2019. Irvine, CA, USA  
 
 **Fiscus CJ**, Koenig D. [A K-mer based approach to characterize the dark matter of the *Arabidopsis thaliana* genome](http://smbe2019.org/media/1058/smbe-2019-abstract-book.pdf). Poster. SMBE 2019. Manchester, UK  
 
