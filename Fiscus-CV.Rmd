@@ -93,6 +93,8 @@ Landis JB, Guercio AM, Brown KE, **Fiscus CJ**, Morrell PL, Koenig D. Natural se
 
 ## In press
 <!-- use PLoS Genetics citation style but add all authors -->
+Deb SK, Kalra D, Kubica J, Stricker E, Truong VQ, Zeng Q, **Fiscus CJ**, [41 authors], Sedlazeck FJ, Busby B. The fifth international hackathon for developing computational cloud-based tools and resources for pan-structural variation and genomics. F1000Res. 2024;13: 708. doi:10.12688/f1000research.148237.1  
+
 **Fiscus CJ**, Herniter IA, Tchamba M, Paliwal R, Muñoz-Amatriaín M, Roberts PA, Abberton M, Alaba O, Close TJ, Oyatomi O, Koenig D. The pattern of genetic variability in a core collection of 2,021 cowpea accessions. G3. 2024. doi:10.1093/g3journal/jkae071 
 
 Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N, Nelson DC. A KARRIKIN INSENSITIVE2 paralog in lettuce mediates highly sensitive germination responses to karrikinolide. Plant Physiol. 2022. doi:10.1093/plphys/kiac328
