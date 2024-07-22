@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  13 JUL 2024 09:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  21 JUL 2024 18:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1114,12 +1114,12 @@ File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 vips/base/8r.enc}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/
 enc/dvips/fontawesome/fontawesometwo.enc}]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
-22.
+26.
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <12> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 222.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 226.
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1136,11 +1136,11 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 26214 strings out of 474116
- 484707 string characters out of 5733619
+ 26220 strings out of 474116
+ 484758 string characters out of 5733619
  1944187 words of memory out of 5000000
  48024 multiletter control sequences out of 15000+600000
- 593150 words of font info for 123 fonts, out of 8000000 for 9000
+ 593400 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,101p,1202b,754s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/fo
@@ -1149,7 +1149,7 @@ st/fonts/type1/public/lm/lmr10.pfb></opt/homebrew/Cellar/texlive/20240312/share
 /texmf-dist/fonts/type1/public/lm/lmtk10.pfb></opt/homebrew/Cellar/texlive/2024
 0312/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></opt/homebrew/Cellar
 /texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Fiscus-RESUME.pdf (2 pages, 81309 bytes).
+Output written on Fiscus-RESUME.pdf (2 pages, 81708 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  62 compressed objects within 1 object stream

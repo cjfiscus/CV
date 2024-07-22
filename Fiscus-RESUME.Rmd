@@ -51,56 +51,52 @@ Irvine, California
 
 
 ## Summary
-Research scientist with extensive experience in bioinformatics and computational biology, specializing in analysis of next-generation sequencing data using high-performance computing systems. Proven track record of driving scientific research projects as part of a cross-functional team. Expert communicator with ability to translate technical information for diverse stakeholders. 
+R&D Scientist with extensive experience in bioinformatics, data science, and computational biology. Proven track record of leading high-impact research projects within cross-functional teams. Expert communicator with a talent for translating complex technical information to diverse stakeholders, fostering collaboration and driving project success. 
 
 ## Professional Experience
 **Postdoctoral Researcher** \hfill 09/2022 - Present  
 University of California, Irvine \hfill Irvine, CA  
 
-* Leading computational biology-based research projects studying wild grape genomics  
+* Conducting research on wild grape genomics utilizing novel genomics and machine learning algorithms, leading to 4 conference presentations (3 talks, 1 poster) 
 
-* Team lead for Pan-Structural Variation Hackathon in the Cloud (hosted by Baylor College of Medicine)
+* Led a team of 4 in the 2023 Pan-Structural Variation Hackathon in the Cloud, designed an algorithm to characterize copy number variation from sequencing data 
 
-* Organized Southern California Evolutionary Genetics and Genomics Meeting (~100 attendees)  
+* Organized the 2023 Southern California Evolutionary Genetics and Genomics Meeting attracting ~100 attendees
 
 
 **Graduate Student Researcher** \hfill 09/2016 - 09/2022  
 University of California, Riverside \hfill Riverside, CA  
 
-* Led 3 scientific research projects resulting in 3 publications and 8 conference presentations (2 talks, 6 posters) 
+* Contributed to genomics research projects as part of a cross-functional R&D team, leading to 3 peer-reviewed publications and 8 conference presentations (2 talks, 6 posters)  
 
-* Demonstrated leadership and project management skills by individually mentoring 5 direct reports   
+* Developed and implemented bioinformatics algorithms for analysis of multi-omics NGS sequencing data in a high-performance computing environment
 
-* Taught discussion sections for 4 college-level courses in genomics and bioinformatics (3X) and genetics (1X)    
+* Mentored and managed teams of 1-2 direct reports (5 mentees total), enhancing their technical skills and contributing to successful project outcomes 
 
 
 **Quality Control Laboratory Technician** \hfill 12/2015 - 08/2016  
 Charles Krug Winery \hfill St. Helena, CA  
 
-* Performed enology laboratory tests throughout production to ensure legal compliance and quality standards   
+* Conducted enology laboratory tests throughout production, ensuring legal compliance and maintaining quality standards across multiple product lines  
 
-* Developed 5 SOPs for quality control laboratory assays  
+* Redesigned 5 SOPs for quality control laboratory assays, improving laboratory efficiency by 20% and ensuring consistent, reliable testing procedures  
 
-* Identified, troubleshot, and addressed product quality issues in collaboration with production team   
+* Collaborated with production teams to identify and resolve product quality issues, enhancing overall product consistency through thorough data analysis and problem-solving   
 
 
 **Harvest Laboratory Technician** \hfill 08/2015 - 12/2015  
 Charles Krug Winery (via Apex Life Sciences) \hfill St. Helena, CA
 
-* Conducted enology laboratory analyses and sensory evaluations supporting all stages of the winemaking process 
-
-* Maintained strict adherence to SOPs and contributed to quality assurance initiatives 
-
-* Managed sample collection, bench trials, and blending experiments to optimize product characteristics
+* Conducted enology laboratory analyses and data evaluation supporting the production of 1.5 million cases annually  
 
 ## Skills
-* **General** - data analysis & visualization, problem-solving, statistics, statistical programming 
+* **Data analysis**: inferential statistics, regression, clustering, PCA, machine learning (random forests) 
 
-* **Programming** - R, bash, python 
+* **Programming**: R (base and tidyverse), bash, python 
 
-* **Bioinformatics** - NGS data analysis, SNP calling, GWAS, bwa, GATK, samtools/bcftools, bedtools, plink   
+* **Bioinformatics**: NGS data analysis, SNP calling, GWAS, bwa, GATK, samtools/bcftools, bedtools, plink   
 
-* **Computing** - Unix command line, SLURM (HPC), conda, git (version control), snakemake (workflow) 
+* **Computing**: Unix command line, SLURM (HPC), conda, git (version control), snakemake (workflow) 
 
 ## Education   
 **Ph.D. Genetics, Genomics and Bioinformatics** \hfill 2022  
