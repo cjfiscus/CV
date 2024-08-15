@@ -71,7 +71,7 @@ University of California, Riverside \hfill Riverside, CA
 
 * Contributed to genomics research projects as part of a cross-functional R&D team, leading to 3 peer-reviewed publications and 8 conference presentations (2 talks, 6 posters)  
 
-* Developed a novel pipeline utilizing K-mer frequencies from WGS reads to profile genomes, estimate repeat copy number variation, and map genetic determinants of CNV using GWAS  
+* Developed a novel pipeline utilizing K-mer frequencies from WGS reads to profile genomes, estimate repeat copy number variation, and map genetic basis of CNV using GWAS  
 
 * Mentored and managed teams of 1-2 direct reports (5 mentees total), enhancing their technical skills and contributing to successful project outcomes 
 
