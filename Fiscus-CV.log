@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  21 JUL 2024 18:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  14 AUG 2024 19:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -884,6 +884,19 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip65
 \f@nch@O@orf=\skip66
 )
+(/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/titlesec/titl
+esec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box111
+\beforetitleunit=\skip67
+\aftertitleunit=\skip68
+\ttl@plus=\dimen284
+\ttl@minus=\dimen285
+\ttl@toksa=\toks40
+\titlewidth=\dimen286
+\titlewidthlast=\dimen287
+\titlewidthfirst=\dimen288
+)
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/bookmark/book
 mark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
@@ -897,7 +910,7 @@ File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/xurl/xurl.sty
 Package: xurl 2022/01/09 v 0.10 modify URL breaks
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 90
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 97
 .
 
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/psnfss/t1phv.
@@ -908,41 +921,41 @@ File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 ackend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count326
-\l__pdf_internal_box=\box111
+\l__pdf_internal_box=\box112
 ) (./Fiscus-CV.aux)
 \openout1 = `Fiscus-CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 90.
-LaTeX Font Info:    ... okay on input line 90.
-LaTeX Info: Redefining \microtypecontext on input line 90.
-Package microtype Info: Applying patch `item' on input line 90.
-Package microtype Info: Applying patch `toc' on input line 90.
-Package microtype Info: Applying patch `eqnum' on input line 90.
-Package microtype Info: Applying patch `footnote' on input line 90.
-Package microtype Info: Applying patch `verbatim' on input line 90.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Info: Redefining \microtypecontext on input line 97.
+Package microtype Info: Applying patch `item' on input line 97.
+Package microtype Info: Applying patch `toc' on input line 97.
+Package microtype Info: Applying patch `eqnum' on input line 97.
+Package microtype Info: Applying patch `footnote' on input line 97.
+Package microtype Info: Applying patch `verbatim' on input line 97.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 90.
+LaTeX Info: Redefining \showhyphens on input line 97.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -955,16 +968,16 @@ Package microtype Info: Loading generic protrusion settings for font family
 upp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count327
-\scratchdimen=\dimen284
-\scratchbox=\box112
+\scratchdimen=\dimen289
+\scratchbox=\box113
 \nofMPsegments=\count328
 \nofMParguments=\count329
-\everyMPshowfont=\toks40
+\everyMPshowfont=\toks41
 \MPscratchCnt=\count330
-\MPscratchDim=\dimen285
+\MPscratchDim=\dimen290
 \MPnumerator=\count331
 \makeMPintoPDFobject=\count332
-\everyMPtoPDFconversion=\toks41
+\everyMPtoPDFconversion=\toks42
 )
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/epstopdf-pkg/
 epstopdf-base.sty
@@ -1011,9 +1024,9 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 90.
+Package hyperref Info: Link coloring OFF on input line 97.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-03.
+11.
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1023,29 +1036,29 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-03.
+11.
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-103.
+111.
 
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-103.
+111.
 
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 103.
+(Font)              <10.95> on input line 111.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 103.
+(Font)              <8> on input line 111.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 103.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 103
+(Font)              <6> on input line 111.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 111
 .
 
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amsfonts/umsa
@@ -1056,7 +1069,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 103
+LaTeX Font Info:    Trying to load font information for U+msb on input line 111
 .
 
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/amsfonts/umsb
@@ -1068,28 +1081,28 @@ msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 104.
+ut line 112.
 
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/fontawesome/u
 fontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomethree on i
-nput line 105.
+nput line 113.
 
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/fontawesome/u
 fontawesomethree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 118.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 126.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-78.
+86.
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 178.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 186.
 [1
 
 {/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/map/pdftex/updmap
@@ -1097,7 +1110,7 @@ LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <14.4> not available
 vips/base/8r.enc}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/
 enc/dvips/fontawesome/fontawesometwo.enc}{/opt/homebrew/Cellar/texlive/20240312
 /share/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 254--264
+Underfull \hbox (badness 10000) in paragraph at lines 262--272
 
  []
 
@@ -1111,12 +1124,12 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 
 [2{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/enc/dvips/lm/lm
 -ec.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 267--276
+Underfull \hbox (badness 10000) in paragraph at lines 275--284
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--288
+Underfull \hbox (badness 10000) in paragraph at lines 294--296
 
  []
 
@@ -1135,13 +1148,13 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 25643 strings out of 474116
- 475720 string characters out of 5733619
+ 25918 strings out of 474116
+ 479498 string characters out of 5733619
  1940187 words of memory out of 5000000
- 47417 multiletter control sequences out of 15000+600000
+ 47699 multiletter control sequences out of 15000+600000
  602134 words of font info for 145 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,11n,101p,1006b,712s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,11n,101p,1198b,752s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/fo
 ntawesome/FontAwesome.pfb></opt/homebrew/Cellar/texlive/20240312/share/texmf-di
 st/fonts/type1/public/lm/lmr10.pfb></opt/homebrew/Cellar/texlive/20240312/share
@@ -1150,10 +1163,10 @@ st/fonts/type1/public/lm/lmr10.pfb></opt/homebrew/Cellar/texlive/20240312/share
 /texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></opt/ho
 mebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8
 a.pfb>
-Output written on Fiscus-CV.pdf (3 pages, 103613 bytes).
+Output written on Fiscus-CV.pdf (3 pages, 103108 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 110 compressed objects within 2 object streams
- 15 named destinations out of 1000 (max. 500000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
+ 4 named destinations out of 1000 (max. 500000)
  39013 words of extra memory for PDF output out of 42996 (max. 10000000)
 

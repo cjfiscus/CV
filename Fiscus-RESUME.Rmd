@@ -12,13 +12,14 @@ header-includes:
 - \renewcommand\familydefault{\sfdefault} 
 - \geometry{footskip=0.5cm}
 - \usepackage{titlesec}
--  \titlespacing{\section}{1pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
--  \titlespacing{\subsection}{1pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
--  \titlespacing{\subsubsection}{1pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+-  \titlespacing{\section}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+-  \titlespacing{\subsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
+-  \titlespacing{\subsubsection}{0pt}{12pt plus 2pt minus 1pt}{0pt plus 1pt minus 1pt}
 - \fancyhead{}
 - \fancyhead[R]{resume for Christopher J. Fiscus, PhD}
 - \usepackage{enumitem}
-- \setlist[itemize]{topsep=0pt}
+- \setlist[itemize]{topsep=0pt, leftmargin=16pt}
+
 output:
   pdf_document:
     includes:
@@ -32,6 +33,7 @@ fontsize: 11pt
 \begin{multicols}{2}
 \begin{flushleft}
 {\LARGE \textbf{Christopher J. Fiscus, PhD}\par}
+\vfill
 \textbf{Bioinformatics Scientist} \\   
 Irvine, California
 \end{flushleft}
@@ -51,17 +53,17 @@ Irvine, California
 
 
 ## Summary
-R&D Scientist with extensive experience in bioinformatics, data science, and computational biology. Proven track record of leading high-impact research projects within cross-functional teams. Expert communicator with a talent for translating complex technical information to diverse stakeholders, fostering collaboration and driving project success. 
+R&D Scientist with extensive experience in bioinformatics, computational biology, and data science. Strong track record of leading high-impact research projects within cross-functional teams. Expert communicator with a talent for translating complex technical information to diverse stakeholders, fostering collaboration and driving project success. 
 
 ## Professional Experience
 **Postdoctoral Researcher** \hfill 09/2022 - Present  
 University of California, Irvine \hfill Irvine, CA  
 
-* Conducting research on wild grape genomics utilizing novel genomics and machine learning algorithms, leading to 4 conference presentations (3 talks, 1 poster) 
+* Conducting cutting-edge research on wild grape genomics utilizing novel genomics and machine learning algorithms, leading to 4 conference presentations (3 talks, 1 poster) 
 
-* Led a team of 4 in the 2023 Pan-Structural Variation Hackathon in the Cloud, designed an algorithm to characterize copy number variation from sequencing data 
+* Led a team of 4 in the 2023 Pan-Structural Variation Hackathon in the Cloud, designed an algorithm to characterize copy number variation from next generation sequencing data 
 
-* Organized the 2023 Southern California Evolutionary Genetics and Genomics Meeting attracting ~100 attendees
+* Developed and implemented bioinformatics algorithms for analysis of multi-omics NGS sequencing data in a high-performance computing environment
 
 
 **Graduate Student Researcher** \hfill 09/2016 - 09/2022  
@@ -69,7 +71,7 @@ University of California, Riverside \hfill Riverside, CA
 
 * Contributed to genomics research projects as part of a cross-functional R&D team, leading to 3 peer-reviewed publications and 8 conference presentations (2 talks, 6 posters)  
 
-* Developed and implemented bioinformatics algorithms for analysis of multi-omics NGS sequencing data in a high-performance computing environment
+* Developed a novel pipeline utilizing K-mer frequencies from WGS reads to profile genomes, estimate repeat copy number variation, and map genetic determinants of CNV using GWAS  
 
 * Mentored and managed teams of 1-2 direct reports (5 mentees total), enhancing their technical skills and contributing to successful project outcomes 
 
@@ -87,12 +89,12 @@ Charles Krug Winery \hfill St. Helena, CA
 **Harvest Laboratory Technician** \hfill 08/2015 - 12/2015  
 Charles Krug Winery (via Apex Life Sciences) \hfill St. Helena, CA
 
-* Conducted enology laboratory analyses and data evaluation supporting the production of 1.5 million cases annually  
+* Conducted enology laboratory tests and data evaluation supporting the production of 1.5 million cases annually  
 
 ## Skills
 * **Data analysis**: inferential statistics, regression, clustering, PCA, machine learning (random forests) 
 
-* **Programming**: R (base and tidyverse), bash, python 
+* **Programming**: R (tidyverse, ggplot2), bash, python 
 
 * **Bioinformatics**: NGS data analysis, SNP calling, GWAS, bwa, GATK, samtools/bcftools, bedtools, plink   
 

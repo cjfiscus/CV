@@ -9,6 +9,13 @@ header-includes:
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
 - \setlength{\headheight}{0pt}
+- \renewcommand\familydefault{\sfdefault}
+- \geometry{footskip=0.5cm}
+- \usepackage{titlesec}
+-  \titlespacing{\section}{0pt}{18pt plus 2pt minus 1pt}{13pt plus 2pt minus 1pt}
+-  \titlespacing{\subsection}{0pt}{15pt plus 2pt minus 1pt}{13pt plus 2pt minus 1pt}
+-  \titlespacing{\subsubsection}{0pt}{12pt plus 2pt minus 1pt}{13pt plus 2pt minus 1pt}
+- \fancyhead{}
 - \fancyhead[R]{curriculum vitae for Christopher J. Fiscus, PhD}
 - \renewcommand\familydefault{\sfdefault} 
 - \geometry{footskip=0.5cm}
@@ -25,6 +32,7 @@ fontsize: 11pt
 \begin{multicols}{2}
 \begin{flushleft}
 {\LARGE \textbf{Christopher J. Fiscus, PhD}\par}
+\vfill
 Department of Ecology and Evolutionary Biology
 University of California, Irvine
 \end{flushleft}
