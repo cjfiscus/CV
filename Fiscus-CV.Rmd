@@ -96,7 +96,8 @@ Video Game Programming for Kids \hfill 06-08/2014
 
 # Publications \orcidlink{https://orcid.org/0000-0001-9569-1809} `0000-0001-9569-1809`   
 
-<!-- ## Preprints --> 
+## Preprints 
+**Fiscus CJ**, Aguirre-Liguori JA, Gaut GRJ, Gaut BS. Climate, population size, and dispersal influences mutational load across the landscape in *Vitis arizonica*. bioRxiv. 2024. p. 2024.08.22.609253. doi:10.1101/2024.08.22.609253
 
 ## In press
 <!-- use PLoS Genetics citation style but add all authors -->
