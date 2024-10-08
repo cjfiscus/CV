@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  23 AUG 2024 13:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.3.20)  7 OCT 2024 21:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1102,7 +1102,7 @@ Overfull \hbox (15.1533pt too wide) in paragraph at lines 113--114
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 1
-37.
+40.
 
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/psnfss/ts1phv
 .fd
@@ -1114,14 +1114,14 @@ File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 vips/base/8r.enc}{/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/
 enc/dvips/fontawesome/fontawesometwo.enc}]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
-28.
+31.
 (/opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <12> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 228.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 231.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 232.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 234.
 
 Package fancyhdr Warning: \headheight is too small (0.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1138,11 +1138,11 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 26244 strings out of 474116
- 485013 string characters out of 5733619
+ 26245 strings out of 474116
+ 485022 string characters out of 5733619
  1944187 words of memory out of 5000000
  48028 multiletter control sequences out of 15000+600000
- 597391 words of font info for 140 fonts, out of 8000000 for 9000
+ 597439 words of font info for 141 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,101p,1202b,752s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/public/fo
@@ -1153,10 +1153,10 @@ st/fonts/type1/public/lm/lmr10.pfb></opt/homebrew/Cellar/texlive/20240312/share
 /texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></opt/ho
 mebrew/Cellar/texlive/20240312/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8
 a.pfb>
-Output written on Fiscus-RESUME.pdf (2 pages, 86668 bytes).
+Output written on Fiscus-RESUME.pdf (2 pages, 87732 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 84 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  34877 words of extra memory for PDF output out of 35830 (max. 10000000)
 

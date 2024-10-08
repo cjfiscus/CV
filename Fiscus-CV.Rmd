@@ -33,8 +33,6 @@ fontsize: 11pt
 \begin{flushleft}
 {\LARGE \textbf{Christopher J. Fiscus, PhD}\par}
 \vfill
-Department of Ecology and Evolutionary Biology
-University of California, Irvine
 \end{flushleft}
 
 \columnbreak
@@ -59,7 +57,9 @@ Advisor: [Dr. Daniel Koenig](https://iigb.ucr.edu/koenig/)
 **B.S. Biotechnology**, University of California, Davis \hfill 2015  
 
 # Professional Experience
-**Postdoctoral Scholar**, University of California, Irvine \hfill 09/2022 - Present  
+**Bioinformatics Scientist I**, Exact Sciences Corp. \hfill 10/2024 - Present  
+
+**Postdoctoral Scholar**, University of California, Irvine \hfill 09/2022 - 09/2024  
 Dept of Ecology and Evolutionary Biology  
 Advisor: [Dr. Brandon Gaut](https://www.faculty.uci.edu/profile.cfm?faculty_id=4561)
 
@@ -97,6 +97,8 @@ Video Game Programming for Kids \hfill 06-08/2014
 # Publications \orcidlink{https://orcid.org/0000-0001-9569-1809} `0000-0001-9569-1809`   
 
 ## Preprints 
+Martin GT, **Fiscus CJ**, Gaut BS. Quantifying evolution of SNPs that affect RNA secondary structure in *Arabidopsis thaliana* genes. bioRxiv. 2024. p. 2024.09.27.615253. doi:10.1101/2024.09.27.615253   
+
 **Fiscus CJ**, Aguirre-Liguori JA, Gaut GRJ, Gaut BS. Climate, population size, and dispersal influences mutational load across the landscape in *Vitis arizonica*. bioRxiv. 2024. p. 2024.08.22.609253. doi:10.1101/2024.08.22.609253
 
 ## In press

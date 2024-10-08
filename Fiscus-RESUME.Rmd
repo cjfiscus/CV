@@ -35,7 +35,7 @@ fontsize: 11pt
 {\LARGE \textbf{Christopher J. Fiscus, PhD}\par}
 \vfill
 \textbf{Bioinformatics Scientist} \\   
-Irvine, California
+San Diego, California
 \end{flushleft}
 
 \columnbreak
@@ -56,10 +56,13 @@ Irvine, California
 R&D Scientist with extensive experience in bioinformatics, computational biology, and data science. Strong track record of leading high-impact research projects within cross-functional teams. Expert communicator with a talent for translating complex technical information to diverse stakeholders, fostering collaboration and driving project success. 
 
 ## Professional Experience
-**Postdoctoral Researcher** \hfill 09/2022 - Present  
+**Bioinformatics Scientist I** \hfill 10/2024 - Present  
+Exact Sciences Corp. \hfill San Diego, CA
+
+**Postdoctoral Researcher** \hfill 09/2022 - 09/2024  
 University of California, Irvine \hfill Irvine, CA  
 
-* Conducting cutting-edge research on wild grape genomics utilizing novel genomics and machine learning algorithms, leading to 4 conference presentations (3 talks, 1 poster) 
+* Conducted cutting-edge research on wild grape genomics utilizing novel genomics and machine learning algorithms, leading to 4 conference presentations (3 talks, 1 poster) 
 
 * Led a team of 4 in the 2023 Pan-Structural Variation Hackathon in the Cloud, designed an algorithm to characterize copy number variation from next generation sequencing data 
 
@@ -113,6 +116,8 @@ Coursera
 
 ## Publications \orcidlink{https://orcid.org/0000-0001-9569-1809} `0000-0001-9569-1809`
 <!-- use PLoS Genetics citation style but add all authors -->
+Martin GT, **Fiscus CJ**, Gaut BS. Quantifying evolution of SNPs that affect RNA secondary structure in *Arabidopsis thaliana* genes. bioRxiv. 2024. p. 2024.09.27.615253. doi:10.1101/2024.09.27.615253   
+
 **Fiscus CJ**, Aguirre-Liguori JA, Gaut GRJ, Gaut BS. Climate, population size, and dispersal influences mutational load across the landscape in *Vitis arizonica*. bioRxiv. 2024. p. 2024.08.22.609253. doi:10.1101/2024.08.22.609253  
 
 Landis JB, Guercio AM, Brown KE, **Fiscus CJ**, Morrell PL, Koenig D. Natural selection drives emergent genetic homogeneity in a century-scale experiment with barley. Science. 2024;385: eadl0038. doi:10.1126/science.adl0038  
