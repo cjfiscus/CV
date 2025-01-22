@@ -39,7 +39,7 @@ fontsize: 11pt
 
 \begin{flushright}
 \begin{tabular}{rp{0.30\linewidth}}
-\faEnvelopeO & \href{mailto:cfiscus@uci.edu}{cfiscus@uci.edu} \\
+\faEnvelopeO & \href{mailto:fiscuscj@gmail.com}{fiscuscj@gmail.com} \\
 \faTwitter & \href{https://twitter.com/fiscuscj}{@fiscuscj} \\
 \faUser & \href{https://cjfiscus.github.io/}{cjfiscus.github.io} \\
 \faGithub & \href{https://github.com/cjfiscus}{cjfiscus} \\
@@ -115,6 +115,8 @@ Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N
 <!-- **Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript* --> 
 
 # Selected Presentations
+<!-- Alaba OA, **Fiscus CJ**, Paliwal R, Oyatomi O, Ongom PO, Boukar O, Close TJ, Koenig D. The genetic basis of climate adaptation in traditional cowpea (Vigna unguiculata L.) cultivars. Poster. Plant and Animal Genome Conference 32. San Diego, CA, USA -->
+
 **Fiscus CJ**, Aguirre-Liguori JA, Gaut GRJ, Gaut BS. Landscape genomics and mutational load in *Vitis arizonica*. Poster. SMBE 2024. Puerto Vallarta, Mexico   
 
 **Fiscus CJ**, Aguirre-Liguori JA, Gaut GRJ, Gaut BS. Landscape genomics and mutational load in *Vitis arizonica*. Talk. Southern California Evolutionary Genetics and Genomics Meeting (SCalE) 2024. Pasadena, CA, USA   
