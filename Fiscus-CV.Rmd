@@ -99,10 +99,11 @@ Video Game Programming for Kids \hfill 06-08/2014
 ## Preprints 
 Martin GT, **Fiscus CJ**, Gaut BS. Quantifying evolution of SNPs that affect RNA secondary structure in *Arabidopsis thaliana* genes. bioRxiv. 2024. p. 2024.09.27.615253. doi:10.1101/2024.09.27.615253   
 
-**Fiscus CJ**, Aguirre-Liguori JA, Gaut GRJ, Gaut BS. Climate, population size, and dispersal influences mutational load across the landscape in *Vitis arizonica*. bioRxiv. 2024. p. 2024.08.22.609253. doi:10.1101/2024.08.22.609253
 
 ## In press
 <!-- use PLoS Genetics citation style but add all authors -->
+**Fiscus CJ**, Aguirre-Liguori JA, Gaut GRJ, Gaut BS. Mutational load and adaptive variation are shaped by climate and species range dynamics in Vitis arizonica. New Phytol. 2025 doi:10.1111/nph.70238  
+
 Landis JB, Guercio AM, Brown KE, **Fiscus CJ**, Morrell PL, Koenig D. Natural selection drives emergent genetic homogeneity in a century-scale experiment with barley. Science. 2024;385: eadl0038. doi:10.1126/science.adl0038  
 
 Deb SK, Kalra D, Kubica J, Stricker E, Truong VQ, Zeng Q, **Fiscus CJ**, [41 authors], Sedlazeck FJ, Busby B. The fifth international hackathon for developing computational cloud-based tools and resources for pan-structural variation and genomics. F1000Res. 2024;13: 708. doi:10.12688/f1000research.148237.1  

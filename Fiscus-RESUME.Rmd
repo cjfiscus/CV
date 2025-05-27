@@ -116,9 +116,9 @@ Coursera
 
 ## Publications \orcidlink{https://orcid.org/0000-0001-9569-1809} `0000-0001-9569-1809`
 <!-- use PLoS Genetics citation style but add all authors -->
-Martin GT, **Fiscus CJ**, Gaut BS. Quantifying evolution of SNPs that affect RNA secondary structure in *Arabidopsis thaliana* genes. bioRxiv. 2024. p. 2024.09.27.615253. doi:10.1101/2024.09.27.615253   
+**Fiscus CJ**, Aguirre-Liguori JA, Gaut GRJ, Gaut BS. Mutational load and adaptive variation are shaped by climate and species range dynamics in Vitis arizonica. New Phytol. 2025 doi:10.1111/nph.70238  
 
-**Fiscus CJ**, Aguirre-Liguori JA, Gaut GRJ, Gaut BS. Climate, population size, and dispersal influences mutational load across the landscape in *Vitis arizonica*. bioRxiv. 2024. p. 2024.08.22.609253. doi:10.1101/2024.08.22.609253  
+Martin GT, **Fiscus CJ**, Gaut BS. Quantifying evolution of SNPs that affect RNA secondary structure in *Arabidopsis thaliana* genes. bioRxiv. 2024. p. 2024.09.27.615253. doi:10.1101/2024.09.27.615253   
 
 Landis JB, Guercio AM, Brown KE, **Fiscus CJ**, Morrell PL, Koenig D. Natural selection drives emergent genetic homogeneity in a century-scale experiment with barley. Science. 2024;385: eadl0038. doi:10.1126/science.adl0038  
 
