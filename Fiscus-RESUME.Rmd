@@ -62,7 +62,7 @@ Exact Sciences Corp. \hfill San Diego, CA
 **Postdoctoral Researcher** \hfill 09/2022 - 09/2024  
 University of California, Irvine \hfill Irvine, CA  
 
-* Conducted cutting-edge research on wild grape genomics utilizing novel genomics and machine learning algorithms, leading to 4 conference presentations (3 talks, 1 poster) 
+* Conducted cutting-edge research on wild grape genomics utilizing novel genomics and machine learning algorithms, leading to 4 conference presentations (3 talks, 1 poster) and 2 peer-reviewed publications   
 
 * Led a team of 4 in the 2023 Pan-Structural Variation Hackathon in the Cloud, designed an algorithm to characterize copy number variation from next generation sequencing data 
 
@@ -101,7 +101,7 @@ Charles Krug Winery (via Apex Life Sciences) \hfill St. Helena, CA
 
 * **Bioinformatics**: NGS data analysis, SNP calling, GWAS, bwa, GATK, samtools/bcftools, bedtools, plink   
 
-* **Computing**: Unix command line, SLURM (HPC), conda, git (version control), snakemake (workflow) 
+* **Computing**: Unix command line, AWS, SLURM (HPC), conda, git (version control), snakemake (workflow)   
 
 ## Education   
 **Ph.D. Genetics, Genomics and Bioinformatics** \hfill 2022  
@@ -116,9 +116,11 @@ Coursera
 
 ## Publications \orcidlink{https://orcid.org/0000-0001-9569-1809} `0000-0001-9569-1809`
 <!-- use PLoS Genetics citation style but add all authors -->
-**Fiscus CJ**, Aguirre-Liguori JA, Gaut GRJ, Gaut BS. Mutational load and adaptive variation are shaped by climate and species range dynamics in Vitis arizonica. New Phytol. 2025 doi:10.1111/nph.70238  
+**Fiscus CJ**, Koenig D. The genetic control of rapid genome content divergence in *Arabidopsis thaliana*. bioRxiv. 2025. p. 2025.06.11.659220. doi:10.1101/2025.06.11.659220   
 
-Martin GT, **Fiscus CJ**, Gaut BS. Quantifying evolution of SNPs that affect RNA secondary structure in *Arabidopsis thaliana* genes. bioRxiv. 2024. p. 2024.09.27.615253. doi:10.1101/2024.09.27.615253   
+Martin GT, **Fiscus CJ**, Gaut BS. Quantifying the evolution of SNPs that affect RNA secondary structure in *Arabidopsis thaliana* genes. Mol Biol Evol. 2025; msaf126. doi:10.1093/molbev/msaf126   
+
+**Fiscus CJ**, Aguirre-Liguori JA, Gaut GRJ, Gaut BS. Mutational load and adaptive variation are shaped by climate and species range dynamics in Vitis arizonica. New Phytol. 2025 doi:10.1111/nph.70238  
 
 Landis JB, Guercio AM, Brown KE, **Fiscus CJ**, Morrell PL, Koenig D. Natural selection drives emergent genetic homogeneity in a century-scale experiment with barley. Science. 2024;385: eadl0038. doi:10.1126/science.adl0038  
 
