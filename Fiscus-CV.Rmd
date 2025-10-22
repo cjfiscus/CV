@@ -57,7 +57,7 @@ Advisor: [Dr. Daniel Koenig](https://iigb.ucr.edu/koenig/)
 **B.S. Biotechnology**, University of California, Davis \hfill 2015  
 
 # Professional Experience
-**Bioinformatics Scientist I**, Exact Sciences Corp. \hfill 10/2024 - Present  
+**Bioinformatics Scientist**, Exact Sciences Corp. \hfill 10/2024 - Present  
 
 **Postdoctoral Scholar**, University of California, Irvine \hfill 09/2022 - 09/2024  
 Dept of Ecology and Evolutionary Biology  
@@ -97,7 +97,7 @@ Video Game Programming for Kids \hfill 06-08/2014
 # Publications \orcidlink{https://orcid.org/0000-0001-9569-1809} `0000-0001-9569-1809`   
 
 ## Preprints 
-**Fiscus CJ**, Koenig D. The genetic control of rapid genome content divergence in *Arabidopsis thaliana*. bioRxiv. 2025. p. 2025.06.11.659220. doi:10.1101/2025.06.11.659220   
+**Fiscus CJ**, Koenig D. The genetic control of rapid genome content divergence in *Arabidopsis thaliana*. eLife. 2025. doi:10.7554/elife.108238.1    
 
 
 ## In press
@@ -165,7 +165,7 @@ SMBE2024 Young Investigator Award- $2000 \hfill 2024
 UCR Graduate Student Association Conference Travel Grant- $400 \hfill 2022  
 Earle C. Anthony Graduate Student Travel Award (UCR)-$1000 \hfill 2020  
 UCR Graduate Student Association Conference Travel Grant- $900 \hfill 2019  
-Best Student Appetizer, UCR Botany and Plant Sciences Holiday Party \hfill 2017, 2018, 2019    
+Best Student Appetizer, UCR Botany and Plant Sciences Holiday Party- $0 \hfill 2017, 2018, 2019    
 Dean's Distinguished Fellowship (UCR)- $210,938 \hfill 2016 - 2021    
 <!-- California Highway Patrol 11-99 Foundation Scholarship \hfill 2011 - 2015 --> 
 

@@ -56,7 +56,7 @@ San Diego, California
 R&D Scientist with extensive experience in bioinformatics, computational biology, and data science. Strong track record of leading high-impact research projects within cross-functional teams. Expert communicator with a talent for translating complex technical information to diverse stakeholders, fostering collaboration and driving project success. 
 
 ## Professional Experience
-**Bioinformatics Scientist I** \hfill 10/2024 - Present  
+**Bioinformatics Scientist** \hfill 10/2024 - Present  
 Exact Sciences Corp. \hfill San Diego, CA
 
 **Postdoctoral Researcher** \hfill 09/2022 - 09/2024  
@@ -116,7 +116,7 @@ Coursera
 
 ## Publications \orcidlink{https://orcid.org/0000-0001-9569-1809} `0000-0001-9569-1809`
 <!-- use PLoS Genetics citation style but add all authors -->
-**Fiscus CJ**, Koenig D. The genetic control of rapid genome content divergence in *Arabidopsis thaliana*. bioRxiv. 2025. p. 2025.06.11.659220. doi:10.1101/2025.06.11.659220   
+**Fiscus CJ**, Koenig D. The genetic control of rapid genome content divergence in *Arabidopsis thaliana*. eLife. 2025. doi:10.7554/elife.108238.1      
 
 Martin GT, **Fiscus CJ**, Gaut BS. Quantifying the evolution of SNPs that affect RNA secondary structure in *Arabidopsis thaliana* genes. Mol Biol Evol. 2025; msaf126. doi:10.1093/molbev/msaf126   
 

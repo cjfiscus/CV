@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  23 JUN 2025 20:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025/Homebrew) (preloaded format=pdflatex 2025.3.15)  21 OCT 2025 19:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1164,11 +1164,11 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 26568 strings out of 473190
- 492125 string characters out of 5704335
+ 26561 strings out of 473190
+ 492060 string characters out of 5704335
  890415 words of memory out of 5000000
  49244 multiletter control sequences out of 15000+600000
- 598284 words of font info for 141 fonts, out of 8000000 for 9000
+ 597985 words of font info for 137 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,101p,1202b,747s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/
@@ -1179,7 +1179,7 @@ e/20250308_1/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></opt/homebre
 w/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pf
 b></opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/urw/hel
 vetic/uhvro8a.pfb>
-Output written on Fiscus-RESUME.pdf (2 pages, 87494 bytes).
+Output written on Fiscus-RESUME.pdf (2 pages, 87425 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream
