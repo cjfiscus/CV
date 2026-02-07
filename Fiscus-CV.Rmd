@@ -118,7 +118,9 @@ Martinez SE, Conn CE, Guercio AM, Sepulveda C, **Fiscus CJ**, Koenig D, Shabek N
 <!-- **Fiscus CJ** (2015) [Data Reproducibility: The Chink in Science's Armor](https://aggietranscript.ucdavis.edu/data-reproducibility-the-chink-in-sciences-armor/) *The Aggie Transcript* --> 
 
 # Selected Presentations
-<!-- Alaba OA, **Fiscus CJ**, Paliwal R, Oyatomi O, Ongom PO, Boukar O, Close TJ, Koenig D. The genetic basis of climate adaptation in traditional cowpea (Vigna unguiculata L.) cultivars. Poster. Plant and Animal Genome Conference 32. San Diego, CA, USA -->
+<!-- Alaba OA, **Fiscus CJ**, Ongom PO, Paliwal R, Boukar O, Oyatomi O, Close TJ, Koenig D. Predicting Crop Vulnerability: Using Genomics and Machine Learning to Guide Climate-Resilient Breeding in Cowpea. International Plant & Animal Genome Conference 34. 2026 San Diego, CA USA -->  
+
+<!-- Alaba OA, **Fiscus CJ**, Paliwal R, Oyatomi O, Ongom PO, Boukar O, Close TJ, Koenig D. The genetic basis of climate adaptation in traditional cowpea (Vigna unguiculata L.) cultivars. Poster. Plant and Animal Genome Conference 32. 2024. San Diego, CA, USA -->
 
 **Fiscus CJ**, Aguirre-Liguori JA, Gaut GRJ, Gaut BS. Landscape genomics and mutational load in *Vitis arizonica*. Poster. SMBE 2024. Puerto Vallarta, Mexico   
 
